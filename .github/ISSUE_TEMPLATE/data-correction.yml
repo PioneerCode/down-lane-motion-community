@@ -6,8 +6,7 @@ body:
   - type: markdown
     attributes:
       value: |
-        Specs come from the manufacturer's store, which is sometimes incomplete or wrong. A
-        correction needs a source so it can be checked - a product page, a spec sheet, or the ball
+        A correction needs a source so it can be checked - a product page, a spec sheet, or the ball
         itself (a photo of the box or the ball's markings works).
   - type: dropdown
     id: kind

@@ -30,7 +30,7 @@ layout bugs only happen on a phone, or only in one browser.
 
 ## Good data corrections
 
-Every correction needs a **source**: the manufacturer's product page, a spec sheet, or a photo of
+Every correction needs a **source**: a product page, a spec sheet, or a photo of
 the box or the ball. Specs are only changed when they can be checked, so a correction with a link
 gets fixed much faster than one without.
 

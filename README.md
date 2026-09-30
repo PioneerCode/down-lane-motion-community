@@ -1,7 +1,7 @@
 # Down Lane Motion
 
 **[downlanemotion.com](https://downlanemotion.com)** - free charts and comparisons for Storm, Roto Grip
-and 900 Global bowling balls, built from the manufacturer's own specs.
+and 900 Global bowling balls.
 
 This repo is where the community gives feedback on the site: report a bug, point out a spec that's
 wrong, ask for a ball that's missing, or suggest something new. It's also where the site is
@@ -35,23 +35,21 @@ add - it's how requests get prioritized.
 
 [CONTRIBUTING.md](.github/CONTRIBUTING.md) has what makes a report quick to act on.
 
-## Where the data comes from
+## About the data
 
-Ball specs, reaction ratings and images come from the public product data on
-[stormbowling.com](https://www.stormbowling.com/products/equipment/bowling-balls/), which carries
-all three brands. Balls that leave the store are kept and marked discontinued rather than removed,
-so they can still be looked up and compared.
+Discontinued balls are kept and marked discontinued rather than removed, so they can still be
+looked up and compared.
 
-The store's data is sometimes incomplete or wrong. When it is, the ball's specs are corrected by
-hand, with a note of where the right values came from - which is why a
+If a ball's specs are wrong or missing, they're corrected by hand once the right values can be
+checked - which is why a
 [data correction](https://github.com/PioneerCode/down-lane-motion-community/issues/new?template=data-correction.yml)
 asks for a source: a product page, a spec sheet, or the ball itself.
 
 ## Not affiliated
 
 Down Lane Motion is an independent fan project. It isn't affiliated with, endorsed by or sponsored
-by Storm Products, Inc. Storm, Roto Grip, 900 Global, and all ball names, logos and images are
-trademarks or property of their respective owners.
+by any bowling ball manufacturer. All brand and ball names, logos and images are trademarks or
+property of their respective owners.
 
 ## Code of conduct
 
