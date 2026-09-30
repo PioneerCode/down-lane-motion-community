@@ -1,0 +1,48 @@
+name: Data correction
+description: A ball's specs are wrong or missing, or a ball isn't on the site at all.
+title: "[Data]: "
+labels: ["data", "triage"]
+body:
+  - type: markdown
+    attributes:
+      value: |
+        Specs come from the manufacturer's store, which is sometimes incomplete or wrong. A
+        correction needs a source so it can be checked - a product page, a spec sheet, or the ball
+        itself (a photo of the box or the ball's markings works).
+  - type: dropdown
+    id: kind
+    attributes:
+      label: What kind of correction?
+      options:
+        - A spec is wrong
+        - A spec is missing
+        - A ball is missing from the site
+        - A ball is marked discontinued but isn't (or the other way round)
+        - Wrong image
+    validations:
+      required: true
+  - type: input
+    id: ball
+    attributes:
+      label: Ball
+      description: Its name as the site shows it, including the color if there are several.
+      placeholder: e.g. Phaze II Pearl, Tropical Surge Kiwi-Apple-Avocado
+    validations:
+      required: true
+  - type: textarea
+    id: correction
+    attributes:
+      label: What's wrong, and what should it be?
+      description: For each spec, what the site shows and the right value. Include the weight for RG, differential or PSA.
+      placeholder: |
+        Coverstock: shows "TX-25 Solid", should be "TX-25 Pearl"
+        15 lb differential: shows 0.048, should be 0.051
+    validations:
+      required: true
+  - type: textarea
+    id: source
+    attributes:
+      label: Source
+      description: A link, or a photo pasted in here.
+    validations:
+      required: true

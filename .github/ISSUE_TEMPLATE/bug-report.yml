@@ -1,0 +1,54 @@
+name: Bug report
+description: Something on the site is broken, looks wrong, or doesn't work as expected.
+title: "[Bug]: "
+labels: ["bug", "triage"]
+body:
+  - type: markdown
+    attributes:
+      value: |
+        Thanks for taking the time to report this. If it's a ball's specs that are wrong rather than
+        the site itself, please use the **Data correction** form instead.
+  - type: dropdown
+    id: page
+    attributes:
+      label: Page
+      description: Where did it happen?
+      options:
+        - Stats
+        - Reaction
+        - Tech Specs
+        - Arsenal Ladder
+        - Look-alikes
+        - Ball Comparison
+        - Every page / the header or menu
+        - Other
+    validations:
+      required: true
+  - type: textarea
+    id: what-happened
+    attributes:
+      label: What happened?
+      description: What you saw, and what you expected to see instead.
+    validations:
+      required: true
+  - type: textarea
+    id: steps
+    attributes:
+      label: Steps to reproduce
+      description: The balls, filters or settings you had picked help a lot. A link to the page as you had it is even better.
+      placeholder: |
+        1. Go to Reaction
+        2. Pick ...
+        3. ...
+  - type: textarea
+    id: screenshot
+    attributes:
+      label: Screenshot
+      description: Paste or drag one in, if you can.
+  - type: input
+    id: device
+    attributes:
+      label: Device and browser
+      placeholder: e.g. iPhone 15, Safari / Windows 11, Chrome
+    validations:
+      required: true

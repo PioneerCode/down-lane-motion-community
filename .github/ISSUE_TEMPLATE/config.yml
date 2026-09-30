@@ -1,0 +1,7 @@
+# Every issue goes through one of the forms, so each arrives with what's needed to act on it.
+# Questions and open-ended ideas go to Discussions instead.
+blank_issues_enabled: false
+contact_links:
+  - name: Ask a question or share an idea
+    url: https://github.com/PioneerCode/down-lane-motion-community/discussions
+    about: Questions about the site or the data, arsenal talk, and ideas that aren't a concrete request yet.

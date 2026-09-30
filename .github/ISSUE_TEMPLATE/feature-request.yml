@@ -1,0 +1,42 @@
+name: Feature request
+description: Suggest a new page, chart, filter, brand or improvement.
+title: "[Idea]: "
+labels: ["enhancement", "triage"]
+body:
+  - type: markdown
+    attributes:
+      value: |
+        Please check the existing issues first - if someone has already asked, a 👍 on theirs counts
+        toward it. Still thinking it through? Start a Discussion instead.
+  - type: textarea
+    id: problem
+    attributes:
+      label: What are you trying to do?
+      description: The question you're trying to answer, or the decision you're trying to make. This matters more than the solution.
+      placeholder: e.g. I'm choosing my next ball and want to know which ones would fill the gap between my Phaze II and my Gremlin Tour-X.
+    validations:
+      required: true
+  - type: textarea
+    id: idea
+    attributes:
+      label: What would help?
+      description: How you picture it working, if you have an idea.
+  - type: dropdown
+    id: page
+    attributes:
+      label: Page
+      description: Which page it's for, if any.
+      options:
+        - A new page
+        - Stats
+        - Reaction
+        - Tech Specs
+        - Arsenal Ladder
+        - Look-alikes
+        - Ball Comparison
+        - Across the site
+  - type: textarea
+    id: context
+    attributes:
+      label: Anything else
+      description: Sketches, screenshots, or other sites that do it well.
