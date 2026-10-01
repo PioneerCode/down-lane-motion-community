@@ -1,7 +1,6 @@
 # Down Lane Motion
 
-**[downlanemotion.com](https://downlanemotion.com)** - free charts and comparisons for Storm, Roto Grip
-and 900 Global bowling balls.
+**[downlanemotion.com](https://downlanemotion.com)** - free charts and comparisons of bowling balls.
 
 This repo is where the community gives feedback on the site: report a bug, point out a spec that's
 wrong, ask for a ball that's missing, or suggest something new. It's also where the site is
