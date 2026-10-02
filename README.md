@@ -12,12 +12,13 @@ read, and it's what decides what gets built next.
 
 | Page | What it's for |
 | --- | --- |
-| [Stats](https://downlanemotion.com/stats) | The whole catalog at a glance: how many balls by brand, coverstock type, symmetry, factory finish, weight block and release year. |
+| [Stats](https://downlanemotion.com/) | The whole catalog at a glance: how many balls by brand, coverstock type, symmetry, factory finish, weight block and release year. |
 | [Reaction](https://downlanemotion.com/reaction) | Chart balls by their rated reaction: hook length, ball shape, flare, oil volume, pattern length and lane condition. |
 | [Tech Specs](https://downlanemotion.com/tech-specs) | RG, differential and PSA of every ball from 12 to 16 lb, split into four core types by revs and flare. |
 | [Arsenal Ladder](https://downlanemotion.com/arsenal-ladder) | Line balls up from light oil to heavy, smooth to angular, early hook to late, and see the gaps an arsenal leaves. |
 | [Look-alikes](https://downlanemotion.com/look-alikes) | Find the balls most like any other, discontinued ones included, by their six reaction ratings and a match percentage. |
 | [Ball Comparison](https://downlanemotion.com/comparison) | Compare balls side by side: coverstock, weight block, finish, reaction ratings, and RG, differential and PSA at each weight. |
+| [All Bowling Balls](https://downlanemotion.com/bowling-balls) | Every ball, discontinued ones included, each with its own page: specs, reaction ratings, RG and differential at every weight, the balls most like it and the rest of its line. |
 
 ## Give feedback
 
