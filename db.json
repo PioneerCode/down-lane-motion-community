@@ -1,0 +1,6357 @@
+{
+  "balls": [
+    {
+      "id": 1,
+      "sku": "BBMVXA",
+      "name": "Alpha Crux",
+      "normalizedName": "Alpha Crux",
+      "url": "https://www.stormbowling.com/storm-alpha-crux-bowling-ball",
+      "image": "https://assets.1.commercebuild.com/d186dcd2044cf54d8e48876defef4907/contents/BBMVXA/BBMVXA.png",
+      "imageLocal": "balls/alpha-crux-bbmvxa.png",
+      "image360Local": "balls/alpha-crux-bbmvxa_360.png",
+      "thumbLocal": "balls/thumbs/alpha-crux-bbmvxa.webp",
+      "smallThumbLocal": "balls/thumbs/small/alpha-crux-bbmvxa.webp",
+      "brand": "Storm",
+      "line": "Premier",
+      "core": "AI",
+      "weightBlock": "Catalyst AI",
+      "factoryFinish": "2000 Grit",
+      "durometer": {
+        "min": 73,
+        "max": 75
+      },
+      "symmetry": "Asymmetrical",
+      "flarePotential": "High",
+      "coverstock": "GI26 Solid",
+      "coverstockBase": "GI26",
+      "coverstockType": "Solid",
+      "coverstockStrength": 10.29,
+      "color": "Black/Turquoise/Violet",
+      "releaseDate": "05/29/26",
+      "fragrance": "Apple Fritter",
+      "availableForSalesOrders": true,
+      "isAvailable": true,
+      "matchMaker": null,
+      "matchMakerApp": null,
+      "versionByWeight": [
+        {
+          "weight": 12,
+          "radiusOfGyration": 2.58,
+          "differential": 0.031,
+          "psa": 0.009
+        },
+        {
+          "weight": 13,
+          "radiusOfGyration": 2.56,
+          "differential": 0.034,
+          "psa": 0.011
+        },
+        {
+          "weight": 14,
+          "radiusOfGyration": 2.52,
+          "differential": 0.051,
+          "psa": 0.016
+        },
+        {
+          "weight": 15,
+          "radiusOfGyration": 2.48,
+          "differential": 0.053,
+          "psa": 0.018
+        },
+        {
+          "weight": 16,
+          "radiusOfGyration": 2.48,
+          "differential": 0.052,
+          "psa": 0.017
+        }
+      ],
+      "stats": {
+        "flarePotential": {
+          "min": 10,
+          "max": 10,
+          "middle": 10.0
+        },
+        "ballShape": {
+          "min": 4,
+          "max": 5,
+          "middle": 4.5
+        },
+        "hookLength": {
+          "min": 3,
+          "max": 4,
+          "middle": 3.5
+        },
+        "oilVolume": {
+          "min": 8,
+          "max": 10,
+          "middle": 9.0
+        },
+        "patternLength": {
+          "min": 7,
+          "max": 9,
+          "middle": 8.0
+        },
+        "laneCondition": {
+          "min": 2,
+          "max": 3,
+          "middle": 2.5
+        }
+      },
+      "source": "scrape",
+      "updatedAt": "2026-09-11"
+    },
+    {
+      "id": 2,
+      "sku": "BBMVXD",
+      "name": "Equinox Solid",
+      "normalizedName": "Equinox Solid",
+      "url": "https://www.stormbowling.com/storm-equinox-solid-bowling-ball",
+      "image": "https://assets.1.commercebuild.com/d186dcd2044cf54d8e48876defef4907/contents/BBMVXD/BBMVXD@1.png",
+      "imageLocal": "balls/equinox-solid-bbmvxd.png",
+      "image360Local": "balls/equinox-solid-bbmvxd_360.png",
+      "thumbLocal": "balls/thumbs/equinox-solid-bbmvxd.webp",
+      "smallThumbLocal": "balls/thumbs/small/equinox-solid-bbmvxd.webp",
+      "brand": "Storm",
+      "line": "Premier",
+      "core": "AI",
+      "weightBlock": "Solarion AI",
+      "factoryFinish": "2000 Grit",
+      "durometer": {
+        "min": 73,
+        "max": 75
+      },
+      "symmetry": "Asymmetrical",
+      "flarePotential": "High",
+      "coverstock": "A2S Solid",
+      "coverstockBase": "A2S",
+      "coverstockType": "Solid",
+      "coverstockStrength": 6.71,
+      "color": "Dark Green/Black/White",
+      "releaseDate": "10/17/25",
+      "fragrance": "Cherry Apple Slush",
+      "availableForSalesOrders": true,
+      "isAvailable": true,
+      "matchMaker": null,
+      "matchMakerApp": null,
+      "versionByWeight": [
+        {
+          "weight": 12,
+          "radiusOfGyration": 2.58,
+          "differential": 0.031,
+          "psa": 0.009
+        },
+        {
+          "weight": 13,
+          "radiusOfGyration": 2.56,
+          "differential": 0.034,
+          "psa": 0.011
+        },
+        {
+          "weight": 14,
+          "radiusOfGyration": 2.49,
+          "differential": 0.053,
+          "psa": 0.017
+        },
+        {
+          "weight": 15,
+          "radiusOfGyration": 2.48,
+          "differential": 0.054,
+          "psa": 0.018
+        },
+        {
+          "weight": 16,
+          "radiusOfGyration": 2.47,
+          "differential": 0.054,
+          "psa": 0.016
+        }
+      ],
+      "stats": {
+        "flarePotential": {
+          "min": 10,
+          "max": 10,
+          "middle": 10.0
+        },
+        "ballShape": {
+          "min": 7,
+          "max": 7,
+          "middle": 7.0
+        },
+        "hookLength": {
+          "min": 6,
+          "max": 7,
+          "middle": 6.5
+        },
+        "oilVolume": {
+          "min": 6,
+          "max": 8,
+          "middle": 7.0
+        },
+        "patternLength": {
+          "min": 5,
+          "max": 8,
+          "middle": 6.5
+        },
+        "laneCondition": {
+          "min": 2,
+          "max": 5,
+          "middle": 3.5
+        }
+      },
+      "source": "scrape",
+      "updatedAt": "2026-09-11"
+    },
+    {
+      "id": 3,
+      "sku": "BBMVIM",
+      "name": "Ion Max Pearl",
+      "normalizedName": "Ion Max Pearl",
+      "url": "https://www.stormbowling.com/storm-ion-max-pearl-bowling-ball",
+      "image": "https://assets.1.commercebuild.com/d186dcd2044cf54d8e48876defef4907/contents/BBMVIM/BBMVIM@1.png",
+      "imageLocal": "balls/ion-max-pearl-bbmvim.png",
+      "image360Local": "balls/ion-max-pearl-bbmvim_360.png",
+      "thumbLocal": "balls/thumbs/ion-max-pearl-bbmvim.webp",
+      "smallThumbLocal": "balls/thumbs/small/ion-max-pearl-bbmvim.webp",
+      "brand": "Storm",
+      "line": "Premier",
+      "core": "AI",
+      "weightBlock": "Element Max AI",
+      "factoryFinish": "Power Edge",
+      "durometer": {
+        "min": 73,
+        "max": 75
+      },
+      "symmetry": "Asymmetrical",
+      "flarePotential": "High",
+      "coverstock": "NRG Pearl",
+      "coverstockBase": "NRG",
+      "coverstockType": "Pearl",
+      "coverstockStrength": 8.86,
+      "color": "Cobalt/Aqua/Ivory",
+      "releaseDate": "03/13/26",
+      "fragrance": "Pineapple Cherry Delight",
+      "availableForSalesOrders": true,
+      "isAvailable": true,
+      "matchMaker": null,
+      "matchMakerApp": null,
+      "versionByWeight": [
+        {
+          "weight": 12,
+          "radiusOfGyration": 2.58,
+          "differential": 0.031,
+          "psa": 0.009
+        },
+        {
+          "weight": 13,
+          "radiusOfGyration": 2.56,
+          "differential": 0.034,
+          "psa": 0.011
+        },
+        {
+          "weight": 14,
+          "radiusOfGyration": 2.49,
+          "differential": 0.053,
+          "psa": 0.01
+        },
+        {
+          "weight": 15,
+          "radiusOfGyration": 2.47,
+          "differential": 0.055,
+          "psa": 0.014
+        },
+        {
+          "weight": 16,
+          "radiusOfGyration": 2.47,
+          "differential": 0.053,
+          "psa": 0.013
+        }
+      ],
+      "stats": {
+        "flarePotential": {
+          "min": 10,
+          "max": 10,
+          "middle": 10.0
+        },
+        "ballShape": {
+          "min": 5,
+          "max": 7,
+          "middle": 6.0
+        },
+        "hookLength": {
+          "min": 5,
+          "max": 7,
+          "middle": 6.0
+        },
+        "oilVolume": {
+          "min": 6,
+          "max": 8,
+          "middle": 7.0
+        },
+        "patternLength": {
+          "min": 6,
+          "max": 8,
+          "middle": 7.0
+        },
+        "laneCondition": {
+          "min": 3,
+          "max": 7,
+          "middle": 5.0
+        }
+      },
+      "source": "scrape",
+      "updatedAt": "2026-09-11"
+    },
+    {
+      "id": 4,
+      "sku": "BBMVIO",
+      "name": "Ion Max",
+      "normalizedName": "Ion Max",
+      "url": "https://www.stormbowling.com/storm-ion-max-bowling-ball",
+      "image": "https://assets.1.commercebuild.com/d186dcd2044cf54d8e48876defef4907/contents/BBMVIO/BBMVIO.png",
+      "imageLocal": "balls/ion-max-bbmvio.png",
+      "image360Local": "balls/ion-max-bbmvio_360.png",
+      "thumbLocal": "balls/thumbs/ion-max-bbmvio.webp",
+      "smallThumbLocal": "balls/thumbs/small/ion-max-bbmvio.webp",
+      "brand": "Storm",
+      "line": "Premier",
+      "core": "AI",
+      "weightBlock": "Element Max AI",
+      "factoryFinish": "2000 Grit",
+      "durometer": {
+        "min": 73,
+        "max": 75
+      },
+      "symmetry": "Asymmetrical",
+      "flarePotential": "High",
+      "coverstock": "NRG Solid",
+      "coverstockBase": "NRG",
+      "coverstockType": "Solid",
+      "coverstockStrength": 8.86,
+      "color": "Neon Pink/Indigo/White",
+      "releaseDate": "09/20/24",
+      "fragrance": "Strawberry Milkshake",
+      "availableForSalesOrders": true,
+      "isAvailable": true,
+      "matchMaker": null,
+      "matchMakerApp": null,
+      "versionByWeight": [
+        {
+          "weight": 12,
+          "radiusOfGyration": 2.58,
+          "differential": 0.031,
+          "psa": 0.009
+        },
+        {
+          "weight": 13,
+          "radiusOfGyration": 2.56,
+          "differential": 0.034,
+          "psa": 0.011
+        },
+        {
+          "weight": 14,
+          "radiusOfGyration": 2.49,
+          "differential": 0.053,
+          "psa": 0.01
+        },
+        {
+          "weight": 15,
+          "radiusOfGyration": 2.47,
+          "differential": 0.055,
+          "psa": 0.014
+        },
+        {
+          "weight": 16,
+          "radiusOfGyration": 2.47,
+          "differential": 0.053,
+          "psa": 0.013
+        }
+      ],
+      "stats": {
+        "flarePotential": {
+          "min": 10,
+          "max": 10,
+          "middle": 10.0
+        },
+        "ballShape": {
+          "min": 5,
+          "max": 5,
+          "middle": 5.0
+        },
+        "hookLength": {
+          "min": 2,
+          "max": 3,
+          "middle": 2.5
+        },
+        "oilVolume": {
+          "min": 10,
+          "max": 11,
+          "middle": 10.5
+        },
+        "patternLength": {
+          "min": 9,
+          "max": 10,
+          "middle": 9.5
+        },
+        "laneCondition": {
+          "min": 1,
+          "max": 2,
+          "middle": 1.5
+        }
+      },
+      "source": "scrape",
+      "updatedAt": "2026-09-11"
+    },
+    {
+      "id": 5,
+      "sku": "BBMVIS",
+      "name": "Ion Pro Solid",
+      "normalizedName": "Ion Pro Solid",
+      "url": "https://www.stormbowling.com/storm-ion-pro-solid-bowling-ball",
+      "image": "https://assets.1.commercebuild.com/d186dcd2044cf54d8e48876defef4907/contents/BBMVIS/BBMVIS.png",
+      "imageLocal": "balls/ion-pro-solid-bbmvis.png",
+      "image360Local": "balls/ion-pro-solid-bbmvis_360.png",
+      "thumbLocal": "balls/thumbs/ion-pro-solid-bbmvis.webp",
+      "smallThumbLocal": "balls/thumbs/small/ion-pro-solid-bbmvis.webp",
+      "brand": "Storm",
+      "line": "Premier",
+      "core": "AI",
+      "weightBlock": "Element Tour AI",
+      "factoryFinish": "Power Edge",
+      "durometer": {
+        "min": 73,
+        "max": 75
+      },
+      "symmetry": "Asymmetrical",
+      "flarePotential": "Medium",
+      "coverstock": "TX-16 Solid",
+      "coverstockBase": "TX-16",
+      "coverstockType": "Solid",
+      "coverstockStrength": 7.43,
+      "color": "Capri Blue",
+      "releaseDate": "06/20/25",
+      "fragrance": "Blueberry Donut",
+      "availableForSalesOrders": true,
+      "isAvailable": true,
+      "matchMaker": "72",
+      "matchMakerApp": true,
+      "versionByWeight": [
+        {
+          "weight": 12,
+          "radiusOfGyration": 2.58,
+          "differential": 0.031,
+          "psa": 0.009
+        },
+        {
+          "weight": 13,
+          "radiusOfGyration": 2.56,
+          "differential": 0.034,
+          "psa": 0.011
+        },
+        {
+          "weight": 14,
+          "radiusOfGyration": 2.51,
+          "differential": 0.036,
+          "psa": 0.01
+        },
+        {
+          "weight": 15,
+          "radiusOfGyration": 2.47,
+          "differential": 0.035,
+          "psa": 0.014
+        },
+        {
+          "weight": 16,
+          "radiusOfGyration": 2.47,
+          "differential": 0.035,
+          "psa": 0.013
+        }
+      ],
+      "stats": {
+        "flarePotential": {
+          "min": 7,
+          "max": 7,
+          "middle": 7.0
+        },
+        "ballShape": {
+          "min": 4,
+          "max": 6,
+          "middle": 5.0
+        },
+        "hookLength": {
+          "min": 5,
+          "max": 8,
+          "middle": 6.5
+        },
+        "oilVolume": {
+          "min": 3,
+          "max": 7,
+          "middle": 5.0
+        },
+        "patternLength": {
+          "min": 2,
+          "max": 8,
+          "middle": 5.0
+        },
+        "laneCondition": {
+          "min": 4,
+          "max": 9,
+          "middle": 6.5
+        }
+      },
+      "source": "scrape",
+      "updatedAt": "2026-09-11"
+    },
+    {
+      "id": 6,
+      "sku": "BBMVXF",
+      "name": "Next Factor",
+      "normalizedName": "Next Factor",
+      "url": "https://www.stormbowling.com/storm-next-factor-bowling-ball",
+      "image": "https://assets.1.commercebuild.com/d186dcd2044cf54d8e48876defef4907/contents/BBMVXF/BBMVXF.png",
+      "imageLocal": "balls/next-factor-bbmvxf.png",
+      "image360Local": "balls/next-factor-bbmvxf_360.png",
+      "thumbLocal": "balls/thumbs/next-factor-bbmvxf.webp",
+      "smallThumbLocal": "balls/thumbs/small/next-factor-bbmvxf.webp",
+      "brand": "Storm",
+      "line": "Premier",
+      "core": "Light Weight",
+      "weightBlock": "RAD-TQ",
+      "factoryFinish": "Power Edge",
+      "durometer": {
+        "min": 73,
+        "max": 75
+      },
+      "symmetry": "Asymmetrical",
+      "flarePotential": "High",
+      "coverstock": "R3S Pearl",
+      "coverstockBase": "R3S",
+      "coverstockType": "Pearl",
+      "coverstockStrength": 5.29,
+      "color": "Midnight",
+      "releaseDate": "12/19/25",
+      "fragrance": "Dark Berry",
+      "availableForSalesOrders": true,
+      "isAvailable": true,
+      "matchMaker": null,
+      "matchMakerApp": null,
+      "versionByWeight": [
+        {
+          "weight": 14,
+          "radiusOfGyration": 2.59,
+          "differential": 0.05,
+          "psa": 0.019
+        },
+        {
+          "weight": 15,
+          "radiusOfGyration": 2.56,
+          "differential": 0.051,
+          "psa": 0.017
+        },
+        {
+          "weight": 16,
+          "radiusOfGyration": 2.54,
+          "differential": 0.05,
+          "psa": 0.015
+        }
+      ],
+      "stats": {
+        "flarePotential": {
+          "min": 10,
+          "max": 10,
+          "middle": 10.0
+        },
+        "ballShape": {
+          "min": 10,
+          "max": 11,
+          "middle": 10.5
+        },
+        "hookLength": {
+          "min": 9,
+          "max": 10,
+          "middle": 9.5
+        },
+        "oilVolume": {
+          "min": 3,
+          "max": 5,
+          "middle": 4.0
+        },
+        "patternLength": {
+          "min": 4,
+          "max": 5,
+          "middle": 4.5
+        },
+        "laneCondition": {
+          "min": 7,
+          "max": 9,
+          "middle": 8.0
+        }
+      },
+      "source": "scrape",
+      "updatedAt": "2026-09-11"
+    },
+    {
+      "id": 7,
+      "sku": "BBMVDB",
+      "name": "Identity B/C/P",
+      "normalizedName": "Identity B/C/P",
+      "url": "https://www.stormbowling.com/storm-identity-bcp-bowling-ball",
+      "image": "https://assets.1.commercebuild.com/d186dcd2044cf54d8e48876defef4907/contents/BBMVDB/BBMVDB.png",
+      "imageLocal": "balls/identity-b-c-p-bbmvdb.png",
+      "image360Local": "balls/identity-b-c-p-bbmvdb_360.png",
+      "thumbLocal": "balls/thumbs/identity-b-c-p-bbmvdb.webp",
+      "smallThumbLocal": "balls/thumbs/small/identity-b-c-p-bbmvdb.webp",
+      "brand": "Storm",
+      "line": "Premier",
+      "core": "AI",
+      "weightBlock": "ID AI",
+      "factoryFinish": "Power Edge",
+      "durometer": {
+        "min": 73,
+        "max": 75
+      },
+      "symmetry": "Asymmetrical",
+      "flarePotential": "High",
+      "coverstock": "REX Pearl",
+      "coverstockBase": "REX",
+      "coverstockType": "Pearl",
+      "coverstockStrength": 8.14,
+      "color": "Black/Cherry/Purple",
+      "releaseDate": "07/01/25",
+      "fragrance": "Cherry",
+      "availableForSalesOrders": true,
+      "isAvailable": true,
+      "matchMaker": null,
+      "matchMakerApp": null,
+      "versionByWeight": [
+        {
+          "weight": 12,
+          "radiusOfGyration": 2.58,
+          "differential": 0.031,
+          "psa": 0.009
+        },
+        {
+          "weight": 13,
+          "radiusOfGyration": 2.56,
+          "differential": 0.034,
+          "psa": 0.011
+        },
+        {
+          "weight": 14,
+          "radiusOfGyration": 2.54,
+          "differential": 0.051,
+          "psa": 0.008
+        },
+        {
+          "weight": 15,
+          "radiusOfGyration": 2.51,
+          "differential": 0.055,
+          "psa": 0.011
+        },
+        {
+          "weight": 16,
+          "radiusOfGyration": 2.5,
+          "differential": 0.055,
+          "psa": 0.009
+        }
+      ],
+      "stats": {
+        "flarePotential": {
+          "min": 10,
+          "max": 10,
+          "middle": 10.0
+        },
+        "ballShape": {
+          "min": 10,
+          "max": 10,
+          "middle": 10.0
+        },
+        "hookLength": {
+          "min": 9,
+          "max": 10,
+          "middle": 9.5
+        },
+        "oilVolume": {
+          "min": 6,
+          "max": 8,
+          "middle": 7.0
+        },
+        "patternLength": {
+          "min": 6,
+          "max": 9,
+          "middle": 7.5
+        },
+        "laneCondition": {
+          "min": 5,
+          "max": 8,
+          "middle": 6.5
+        }
+      },
+      "source": "scrape",
+      "updatedAt": "2026-09-11"
+    },
+    {
+      "id": 8,
+      "sku": "BBMVID",
+      "name": "Identity",
+      "normalizedName": "Identity",
+      "url": "https://www.stormbowling.com/storm-identity-bowling-ball",
+      "image": "https://assets.1.commercebuild.com/d186dcd2044cf54d8e48876defef4907/contents/BBMVID/BBMVID.png",
+      "imageLocal": "balls/identity-bbmvid.png",
+      "image360Local": "balls/identity-bbmvid_360.png",
+      "thumbLocal": "balls/thumbs/identity-bbmvid.webp",
+      "smallThumbLocal": "balls/thumbs/small/identity-bbmvid.webp",
+      "brand": "Storm",
+      "line": "Premier",
+      "core": "AI",
+      "weightBlock": "ID AI",
+      "factoryFinish": "Power Edge",
+      "durometer": {
+        "min": 73,
+        "max": 75
+      },
+      "symmetry": "Asymmetrical",
+      "flarePotential": "High",
+      "coverstock": "REX Pearl",
+      "coverstockBase": "REX",
+      "coverstockType": "Pearl",
+      "coverstockStrength": 8.14,
+      "color": "Cherry/Teal/Black",
+      "releaseDate": "04/02/25",
+      "fragrance": "Cherry",
+      "availableForSalesOrders": true,
+      "isAvailable": true,
+      "matchMaker": null,
+      "matchMakerApp": null,
+      "versionByWeight": [
+        {
+          "weight": 12,
+          "radiusOfGyration": 2.58,
+          "differential": 0.031,
+          "psa": 0.009
+        },
+        {
+          "weight": 13,
+          "radiusOfGyration": 2.56,
+          "differential": 0.034,
+          "psa": 0.011
+        },
+        {
+          "weight": 14,
+          "radiusOfGyration": 2.54,
+          "differential": 0.051,
+          "psa": 0.008
+        },
+        {
+          "weight": 15,
+          "radiusOfGyration": 2.51,
+          "differential": 0.055,
+          "psa": 0.012
+        },
+        {
+          "weight": 16,
+          "radiusOfGyration": 2.5,
+          "differential": 0.055,
+          "psa": 0.009
+        }
+      ],
+      "stats": {
+        "flarePotential": {
+          "min": 10,
+          "max": 10,
+          "middle": 10.0
+        },
+        "ballShape": {
+          "min": 10,
+          "max": 10,
+          "middle": 10.0
+        },
+        "hookLength": {
+          "min": 9,
+          "max": 10,
+          "middle": 9.5
+        },
+        "oilVolume": {
+          "min": 6,
+          "max": 8,
+          "middle": 7.0
+        },
+        "patternLength": {
+          "min": 6,
+          "max": 9,
+          "middle": 7.5
+        },
+        "laneCondition": {
+          "min": 5,
+          "max": 8,
+          "middle": 6.5
+        }
+      },
+      "source": "scrape",
+      "updatedAt": "2026-09-11"
+    },
+    {
+      "id": 9,
+      "sku": "BBMVCN",
+      "name": "Concept",
+      "normalizedName": "Concept",
+      "url": "https://www.stormbowling.com/storm-concept-bowling-ball",
+      "image": "https://assets.1.commercebuild.com/d186dcd2044cf54d8e48876defef4907/contents/BBMVCN/BBMVCN@1.png",
+      "imageLocal": "balls/concept-bbmvcn.png",
+      "image360Local": "balls/concept-bbmvcn_360.png",
+      "thumbLocal": "balls/thumbs/concept-bbmvcn.webp",
+      "smallThumbLocal": "balls/thumbs/small/concept-bbmvcn.webp",
+      "brand": "Storm",
+      "line": "Lab",
+      "core": "Light Weight",
+      "weightBlock": "Radius",
+      "factoryFinish": "1000 Grit",
+      "durometer": {
+        "min": 73,
+        "max": 75
+      },
+      "symmetry": "Symmetrical",
+      "flarePotential": "Low",
+      "coverstock": "ARC Pearl",
+      "coverstockBase": "ARC",
+      "coverstockType": "Pearl",
+      "coverstockStrength": 11.0,
+      "color": "Teal/Imperial Blue",
+      "releaseDate": "02/27/26",
+      "fragrance": "Blueberry Fritter",
+      "availableForSalesOrders": true,
+      "isAvailable": true,
+      "matchMaker": null,
+      "matchMakerApp": null,
+      "versionByWeight": [
+        {
+          "weight": 12,
+          "radiusOfGyration": 2.65,
+          "differential": 0.011,
+          "psa": null
+        },
+        {
+          "weight": 13,
+          "radiusOfGyration": 2.63,
+          "differential": 0.009,
+          "psa": null
+        },
+        {
+          "weight": 14,
+          "radiusOfGyration": 2.62,
+          "differential": 0.019,
+          "psa": null
+        },
+        {
+          "weight": 15,
+          "radiusOfGyration": 2.61,
+          "differential": 0.02,
+          "psa": null
+        },
+        {
+          "weight": 16,
+          "radiusOfGyration": 2.59,
+          "differential": 0.019,
+          "psa": null
+        }
+      ],
+      "stats": {
+        "flarePotential": {
+          "min": 4,
+          "max": 4,
+          "middle": 4.0
+        },
+        "ballShape": {
+          "min": 2,
+          "max": 4,
+          "middle": 3.0
+        },
+        "hookLength": {
+          "min": 2,
+          "max": 6,
+          "middle": 4.0
+        },
+        "oilVolume": {
+          "min": 5,
+          "max": 10,
+          "middle": 7.5
+        },
+        "patternLength": {
+          "min": 2,
+          "max": 7,
+          "middle": 4.5
+        },
+        "laneCondition": {
+          "min": 2,
+          "max": 7,
+          "middle": 4.5
+        }
+      },
+      "source": "scrape",
+      "updatedAt": "2026-09-11"
+    },
+    {
+      "id": 10,
+      "sku": "BBMVBI",
+      "name": "Bionic",
+      "normalizedName": "Bionic",
+      "url": "https://www.stormbowling.com/storm-bionic-bowling-ball",
+      "image": "https://assets.1.commercebuild.com/d186dcd2044cf54d8e48876defef4907/contents/BBMVBI/BBMVBI.png",
+      "imageLocal": "balls/bionic-bbmvbi.png",
+      "image360Local": "balls/bionic-bbmvbi_360.png",
+      "thumbLocal": "balls/thumbs/bionic-bbmvbi.webp",
+      "smallThumbLocal": "balls/thumbs/small/bionic-bbmvbi.webp",
+      "brand": "Storm",
+      "line": "Master",
+      "core": "AI",
+      "weightBlock": "Torsion AI",
+      "factoryFinish": "4000 Grit",
+      "durometer": {
+        "min": 73,
+        "max": 75
+      },
+      "symmetry": "Symmetrical",
+      "flarePotential": "Medium-High",
+      "coverstock": "NRG Hybrid",
+      "coverstockBase": "NRG",
+      "coverstockType": "Hybrid",
+      "coverstockStrength": 8.86,
+      "color": "Electric Blue/Magenta/Deep Purple",
+      "releaseDate": "02/27/26",
+      "fragrance": "Cherry Cobbler",
+      "availableForSalesOrders": true,
+      "isAvailable": true,
+      "matchMaker": null,
+      "matchMakerApp": null,
+      "versionByWeight": [
+        {
+          "weight": 12,
+          "radiusOfGyration": 2.64,
+          "differential": 0.037,
+          "psa": null
+        },
+        {
+          "weight": 13,
+          "radiusOfGyration": 2.58,
+          "differential": 0.047,
+          "psa": null
+        },
+        {
+          "weight": 14,
+          "radiusOfGyration": 2.48,
+          "differential": 0.047,
+          "psa": null
+        },
+        {
+          "weight": 15,
+          "radiusOfGyration": 2.47,
+          "differential": 0.05,
+          "psa": null
+        },
+        {
+          "weight": 16,
+          "radiusOfGyration": 2.47,
+          "differential": 0.05,
+          "psa": null
+        }
+      ],
+      "stats": {
+        "flarePotential": {
+          "min": 10,
+          "max": 10,
+          "middle": 10.0
+        },
+        "ballShape": {
+          "min": 5,
+          "max": 6,
+          "middle": 5.5
+        },
+        "hookLength": {
+          "min": 6,
+          "max": 7,
+          "middle": 6.5
+        },
+        "oilVolume": {
+          "min": 7,
+          "max": 8,
+          "middle": 7.5
+        },
+        "patternLength": {
+          "min": 7,
+          "max": 8,
+          "middle": 7.5
+        },
+        "laneCondition": {
+          "min": 3,
+          "max": 5,
+          "middle": 4.0
+        }
+      },
+      "source": "scrape",
+      "updatedAt": "2026-09-11"
+    },
+    {
+      "id": 11,
+      "sku": "BBMVQH",
+      "name": "!Q Tour Sapphire",
+      "normalizedName": "!Q Tour Sapphire",
+      "url": "https://www.stormbowling.com/storm-iq-tour-sapphire-bowling-ball",
+      "image": "https://assets.1.commercebuild.com/d186dcd2044cf54d8e48876defef4907/contents/BBMVQH/IQ_Sapphire_Small.png?v=b7051d5c",
+      "imageLocal": "balls/!q-tour-sapphire-bbmvqh.png",
+      "image360Local": "balls/!q-tour-sapphire-bbmvqh_360.png",
+      "thumbLocal": "balls/thumbs/!q-tour-sapphire-bbmvqh.webp",
+      "smallThumbLocal": "balls/thumbs/small/!q-tour-sapphire-bbmvqh.webp",
+      "brand": "Storm",
+      "line": "Master",
+      "core": "Light Weight",
+      "weightBlock": "C3C",
+      "factoryFinish": "Power Edge",
+      "durometer": {
+        "min": 73,
+        "max": 75
+      },
+      "symmetry": "Symmetrical",
+      "flarePotential": "Medium-Low",
+      "coverstock": "R2S Pearl",
+      "coverstockBase": "R2S",
+      "coverstockType": "Pearl",
+      "coverstockStrength": 4.57,
+      "color": "Sapphire",
+      "releaseDate": "08/07/26",
+      "fragrance": "Blueberry",
+      "availableForSalesOrders": true,
+      "isAvailable": true,
+      "matchMaker": null,
+      "matchMakerApp": null,
+      "versionByWeight": [
+        {
+          "weight": 12,
+          "radiusOfGyration": 2.65,
+          "differential": 0.035,
+          "psa": null
+        },
+        {
+          "weight": 13,
+          "radiusOfGyration": 2.59,
+          "differential": 0.045,
+          "psa": null
+        },
+        {
+          "weight": 14,
+          "radiusOfGyration": 2.54,
+          "differential": 0.034,
+          "psa": null
+        },
+        {
+          "weight": 15,
+          "radiusOfGyration": 2.49,
+          "differential": 0.029,
+          "psa": null
+        },
+        {
+          "weight": 16,
+          "radiusOfGyration": 2.49,
+          "differential": 0.035,
+          "psa": null
+        }
+      ],
+      "stats": {
+        "flarePotential": {
+          "min": 5,
+          "max": 5,
+          "middle": 5.0
+        },
+        "ballShape": {
+          "min": 7,
+          "max": 8,
+          "middle": 7.5
+        },
+        "hookLength": {
+          "min": 6,
+          "max": 9,
+          "middle": 7.5
+        },
+        "oilVolume": {
+          "min": 2,
+          "max": 5,
+          "middle": 3.5
+        },
+        "patternLength": {
+          "min": 4,
+          "max": 8,
+          "middle": 6.0
+        },
+        "laneCondition": {
+          "min": 6,
+          "max": 10,
+          "middle": 8.0
+        }
+      },
+      "source": "scrape",
+      "updatedAt": "2026-09-11"
+    },
+    {
+      "id": 12,
+      "sku": "BBMTQT",
+      "name": "!Q Tour Edition",
+      "normalizedName": "!Q Tour Edition",
+      "url": "https://www.stormbowling.com/storm-iq-tour-edition-bowling-ball",
+      "image": "https://assets.1.commercebuild.com/d186dcd2044cf54d8e48876defef4907/contents/BBMTQT/BBMTQT.png",
+      "imageLocal": "balls/!q-tour-edition-bbmtqt.png",
+      "image360Local": null,
+      "thumbLocal": "balls/thumbs/!q-tour-edition-bbmtqt.webp",
+      "smallThumbLocal": "balls/thumbs/small/!q-tour-edition-bbmtqt.webp",
+      "brand": "Storm",
+      "line": "Master",
+      "core": "Light Weight",
+      "weightBlock": "C3C",
+      "factoryFinish": "4000 Grit",
+      "durometer": {
+        "min": 73,
+        "max": 75
+      },
+      "symmetry": "Symmetrical",
+      "flarePotential": "Medium-Low",
+      "coverstock": "R2S Solid",
+      "coverstockBase": "R2S",
+      "coverstockType": "Solid",
+      "coverstockStrength": 4.57,
+      "color": "Midnight Blue",
+      "releaseDate": "07/10/12",
+      "fragrance": "Apple Crisp",
+      "availableForSalesOrders": true,
+      "isAvailable": true,
+      "matchMaker": "46",
+      "matchMakerApp": false,
+      "versionByWeight": [
+        {
+          "weight": 12,
+          "radiusOfGyration": 2.65,
+          "differential": 0.035,
+          "psa": null
+        },
+        {
+          "weight": 13,
+          "radiusOfGyration": 2.59,
+          "differential": 0.045,
+          "psa": null
+        },
+        {
+          "weight": 14,
+          "radiusOfGyration": 2.54,
+          "differential": 0.034,
+          "psa": null
+        },
+        {
+          "weight": 15,
+          "radiusOfGyration": 2.49,
+          "differential": 0.029,
+          "psa": null
+        },
+        {
+          "weight": 16,
+          "radiusOfGyration": 2.49,
+          "differential": 0.035,
+          "psa": null
+        }
+      ],
+      "stats": {
+        "flarePotential": {
+          "min": 5,
+          "max": 5,
+          "middle": 5.0
+        },
+        "ballShape": {
+          "min": 4,
+          "max": 4,
+          "middle": 4.0
+        },
+        "hookLength": {
+          "min": 5,
+          "max": 7,
+          "middle": 6.0
+        },
+        "oilVolume": {
+          "min": 3,
+          "max": 9,
+          "middle": 6.0
+        },
+        "patternLength": {
+          "min": 2,
+          "max": 10,
+          "middle": 6.0
+        },
+        "laneCondition": {
+          "min": 2,
+          "max": 9,
+          "middle": 5.5
+        }
+      },
+      "source": "scrape",
+      "updatedAt": "2026-09-11"
+    },
+    {
+      "id": 13,
+      "sku": "BBMVLL",
+      "name": "!Q Tour 78/U",
+      "normalizedName": "!Q Tour 78/U",
+      "url": "https://www.stormbowling.com/storm-iq-tour-78u-bowling-ball",
+      "image": "https://assets.1.commercebuild.com/d186dcd2044cf54d8e48876defef4907/contents/BBMVLL/BBMVLL.png",
+      "imageLocal": "balls/!q-tour-78-u-bbmvll.png",
+      "image360Local": "balls/!q-tour-78-u-bbmvll_360.png",
+      "thumbLocal": "balls/thumbs/!q-tour-78-u-bbmvll.webp",
+      "smallThumbLocal": "balls/thumbs/small/!q-tour-78-u-bbmvll.webp",
+      "brand": "Storm",
+      "line": "Master",
+      "core": "Light Weight",
+      "weightBlock": "C3C",
+      "factoryFinish": "500 Grit",
+      "durometer": {
+        "min": 78,
+        "max": 78
+      },
+      "symmetry": "Symmetrical",
+      "flarePotential": "Medium-Low",
+      "coverstock": "Controll 78 Urethane",
+      "coverstockBase": "Controll 78 Urethane",
+      "coverstockType": null,
+      "coverstockStrength": 2.43,
+      "color": "Crimson",
+      "releaseDate": "12/15/23",
+      "fragrance": "None",
+      "availableForSalesOrders": true,
+      "isAvailable": true,
+      "matchMaker": null,
+      "matchMakerApp": null,
+      "versionByWeight": [
+        {
+          "weight": 12,
+          "radiusOfGyration": 2.65,
+          "differential": 0.035,
+          "psa": null
+        },
+        {
+          "weight": 13,
+          "radiusOfGyration": 2.59,
+          "differential": 0.045,
+          "psa": null
+        },
+        {
+          "weight": 14,
+          "radiusOfGyration": 2.54,
+          "differential": 0.034,
+          "psa": null
+        },
+        {
+          "weight": 15,
+          "radiusOfGyration": 2.49,
+          "differential": 0.029,
+          "psa": null
+        },
+        {
+          "weight": 16,
+          "radiusOfGyration": 2.49,
+          "differential": 0.035,
+          "psa": null
+        }
+      ],
+      "stats": {
+        "flarePotential": {
+          "min": 5,
+          "max": 5,
+          "middle": 5.0
+        },
+        "ballShape": {
+          "min": 1,
+          "max": 1,
+          "middle": 1.0
+        },
+        "hookLength": {
+          "min": 1,
+          "max": 1,
+          "middle": 1.0
+        },
+        "oilVolume": {
+          "min": 8,
+          "max": 11,
+          "middle": 9.5
+        },
+        "patternLength": {
+          "min": 1,
+          "max": 4,
+          "middle": 2.5
+        },
+        "laneCondition": {
+          "min": 1,
+          "max": 3,
+          "middle": 2.0
+        }
+      },
+      "source": "scrape",
+      "updatedAt": "2026-09-11"
+    },
+    {
+      "id": 14,
+      "sku": "BBMVZP",
+      "name": "Phaze II Pearl",
+      "normalizedName": "Phaze II Pearl",
+      "url": "https://www.stormbowling.com/storm-phaze-ii-pearl-bowling-ball",
+      "image": "https://assets.1.commercebuild.com/d186dcd2044cf54d8e48876defef4907/contents/BBMVZP/BBMVZP_00000.png",
+      "imageLocal": "balls/phaze-ii-pearl-bbmvzp.png",
+      "image360Local": "balls/phaze-ii-pearl-bbmvzp_360.png",
+      "thumbLocal": "balls/thumbs/phaze-ii-pearl-bbmvzp.webp",
+      "smallThumbLocal": "balls/thumbs/small/phaze-ii-pearl-bbmvzp.webp",
+      "brand": "Storm",
+      "line": "Master",
+      "core": "Light Weight",
+      "weightBlock": "Velocity",
+      "factoryFinish": "Power Edge",
+      "durometer": {
+        "min": 73,
+        "max": 75
+      },
+      "symmetry": "Symmetrical",
+      "flarePotential": "Medium-High",
+      "coverstock": "TX-25 Pearl",
+      "coverstockBase": "TX-25",
+      "coverstockType": "Pearl",
+      "coverstockStrength": 9.57,
+      "color": "Red/Blue/Purple",
+      "releaseDate": "11/28/25",
+      "fragrance": "Frosted Cinnamon Roll",
+      "availableForSalesOrders": true,
+      "isAvailable": true,
+      "matchMaker": null,
+      "matchMakerApp": null,
+      "versionByWeight": [
+        {
+          "weight": 12,
+          "radiusOfGyration": 2.65,
+          "differential": 0.035,
+          "psa": null
+        },
+        {
+          "weight": 12,
+          "radiusOfGyration": 2.59,
+          "differential": 0.045,
+          "psa": null
+        },
+        {
+          "weight": 14,
+          "radiusOfGyration": 2.53,
+          "differential": 0.05,
+          "psa": null
+        },
+        {
+          "weight": 15,
+          "radiusOfGyration": 2.48,
+          "differential": 0.051,
+          "psa": null
+        },
+        {
+          "weight": 16,
+          "radiusOfGyration": 2.48,
+          "differential": 0.051,
+          "psa": null
+        }
+      ],
+      "stats": {
+        "flarePotential": {
+          "min": 10,
+          "max": 10,
+          "middle": 10.0
+        },
+        "ballShape": {
+          "min": 6,
+          "max": 7,
+          "middle": 6.5
+        },
+        "hookLength": {
+          "min": 8,
+          "max": 9,
+          "middle": 8.5
+        },
+        "oilVolume": {
+          "min": 5,
+          "max": 7,
+          "middle": 6.0
+        },
+        "patternLength": {
+          "min": 6,
+          "max": 7,
+          "middle": 6.5
+        },
+        "laneCondition": {
+          "min": 5,
+          "max": 7,
+          "middle": 6.0
+        }
+      },
+      "source": "scrape",
+      "updatedAt": "2026-09-11"
+    },
+    {
+      "id": 15,
+      "sku": "BBMTZA",
+      "name": "Phaze II",
+      "normalizedName": "Phaze II",
+      "url": "https://www.stormbowling.com/storm-phaze-ii-bowling-ball",
+      "image": "https://assets.1.commercebuild.com/d186dcd2044cf54d8e48876defef4907/contents/BBMTZA/BBMTZA.png",
+      "imageLocal": "balls/phaze-ii-bbmtza.png",
+      "image360Local": null,
+      "thumbLocal": "balls/thumbs/phaze-ii-bbmtza.webp",
+      "smallThumbLocal": "balls/thumbs/small/phaze-ii-bbmtza.webp",
+      "brand": "Storm",
+      "line": "Master",
+      "core": "Light Weight",
+      "weightBlock": "Velocity",
+      "factoryFinish": "3000 Grit",
+      "durometer": {
+        "min": 73,
+        "max": 75
+      },
+      "symmetry": "Symmetrical",
+      "flarePotential": "Medium-High",
+      "coverstock": "TX-16 Solid",
+      "coverstockBase": "TX-16",
+      "coverstockType": "Solid",
+      "coverstockStrength": 7.43,
+      "color": "Red/Blue/Purple",
+      "releaseDate": "10/04/16",
+      "fragrance": "Red Velvet Cake",
+      "availableForSalesOrders": true,
+      "isAvailable": true,
+      "matchMaker": "55",
+      "matchMakerApp": true,
+      "versionByWeight": [
+        {
+          "weight": 12,
+          "radiusOfGyration": 2.65,
+          "differential": 0.035,
+          "psa": null
+        },
+        {
+          "weight": 13,
+          "radiusOfGyration": 2.59,
+          "differential": 0.045,
+          "psa": null
+        },
+        {
+          "weight": 14,
+          "radiusOfGyration": 2.53,
+          "differential": 0.05,
+          "psa": null
+        },
+        {
+          "weight": 15,
+          "radiusOfGyration": 2.48,
+          "differential": 0.051,
+          "psa": null
+        },
+        {
+          "weight": 16,
+          "radiusOfGyration": 2.48,
+          "differential": 0.051,
+          "psa": null
+        }
+      ],
+      "stats": {
+        "flarePotential": {
+          "min": 10,
+          "max": 10,
+          "middle": 10.0
+        },
+        "ballShape": {
+          "min": 4,
+          "max": 4,
+          "middle": 4.0
+        },
+        "hookLength": {
+          "min": 4,
+          "max": 5,
+          "middle": 4.5
+        },
+        "oilVolume": {
+          "min": 7,
+          "max": 9,
+          "middle": 8.0
+        },
+        "patternLength": {
+          "min": 7,
+          "max": 9,
+          "middle": 8.0
+        },
+        "laneCondition": {
+          "min": 1,
+          "max": 4,
+          "middle": 2.5
+        }
+      },
+      "source": "scrape",
+      "updatedAt": "2026-09-11"
+    },
+    {
+      "id": 16,
+      "sku": "BBMVRC",
+      "name": "ROCKET A.I.",
+      "normalizedName": "Rocket A.I.",
+      "url": "https://www.stormbowling.com/storm-rocket-ai-bowling-ball",
+      "image": "https://assets.1.commercebuild.com/d186dcd2044cf54d8e48876defef4907/contents/BBMVRC/BBMVRC.png",
+      "imageLocal": "balls/rocket-a.i.-bbmvrc.png",
+      "image360Local": "balls/rocket-a.i.-bbmvrc_360.png",
+      "thumbLocal": "balls/thumbs/rocket-a.i.-bbmvrc.webp",
+      "smallThumbLocal": "balls/thumbs/small/rocket-a.i.-bbmvrc.webp",
+      "brand": "Storm",
+      "line": "Thunder",
+      "core": "AI",
+      "weightBlock": "Booster AI",
+      "factoryFinish": "Power Edge",
+      "durometer": {
+        "min": 74,
+        "max": 76
+      },
+      "symmetry": "Symmetrical",
+      "flarePotential": "Medium-High",
+      "coverstock": "A1S Pearl",
+      "coverstockBase": "A1S",
+      "coverstockType": "Pearl",
+      "coverstockStrength": 6.0,
+      "color": "Chrome/Wine",
+      "releaseDate": "05/01/26",
+      "fragrance": "Frosted Berry",
+      "availableForSalesOrders": true,
+      "isAvailable": true,
+      "matchMaker": null,
+      "matchMakerApp": null,
+      "versionByWeight": [
+        {
+          "weight": 12,
+          "radiusOfGyration": 2.64,
+          "differential": 0.037,
+          "psa": null
+        },
+        {
+          "weight": 13,
+          "radiusOfGyration": 2.58,
+          "differential": 0.047,
+          "psa": null
+        },
+        {
+          "weight": 14,
+          "radiusOfGyration": 2.54,
+          "differential": 0.05,
+          "psa": null
+        },
+        {
+          "weight": 15,
+          "radiusOfGyration": 2.53,
+          "differential": 0.048,
+          "psa": null
+        },
+        {
+          "weight": 16,
+          "radiusOfGyration": 2.52,
+          "differential": 0.046,
+          "psa": null
+        }
+      ],
+      "stats": {
+        "flarePotential": {
+          "min": 9,
+          "max": 9,
+          "middle": 9.0
+        },
+        "ballShape": {
+          "min": 8,
+          "max": 9,
+          "middle": 8.5
+        },
+        "hookLength": {
+          "min": 8,
+          "max": 9,
+          "middle": 8.5
+        },
+        "oilVolume": {
+          "min": 3,
+          "max": 6,
+          "middle": 4.5
+        },
+        "patternLength": {
+          "min": 4,
+          "max": 7,
+          "middle": 5.5
+        },
+        "laneCondition": {
+          "min": 6,
+          "max": 9,
+          "middle": 7.5
+        }
+      },
+      "source": "scrape",
+      "updatedAt": "2026-09-11"
+    },
+    {
+      "id": 17,
+      "sku": "BBMTUB",
+      "name": "PITCH BLACK",
+      "normalizedName": "Pitch Black",
+      "url": "https://www.stormbowling.com/storm-pitch-black-bowling-ball",
+      "image": "https://assets.1.commercebuild.com/d186dcd2044cf54d8e48876defef4907/contents/BBMTUB/BBMTUB.png",
+      "imageLocal": "balls/pitch-black-bbmtub.png",
+      "image360Local": null,
+      "thumbLocal": "balls/thumbs/pitch-black-bbmtub.webp",
+      "smallThumbLocal": "balls/thumbs/small/pitch-black-bbmtub.webp",
+      "brand": "Storm",
+      "line": "Thunder",
+      "core": "Light Weight",
+      "weightBlock": "Capacitor",
+      "factoryFinish": "1000 Grit",
+      "durometer": {
+        "min": 74,
+        "max": 76
+      },
+      "symmetry": "Symmetrical",
+      "flarePotential": "Medium",
+      "coverstock": "Controll Urethane",
+      "coverstockBase": "Controll Urethane",
+      "coverstockType": null,
+      "coverstockStrength": 3.14,
+      "color": "Black",
+      "releaseDate": "05/27/14",
+      "fragrance": "None",
+      "availableForSalesOrders": true,
+      "isAvailable": true,
+      "matchMaker": null,
+      "matchMakerApp": null,
+      "versionByWeight": [
+        {
+          "weight": 12,
+          "radiusOfGyration": 2.63,
+          "differential": 0.021,
+          "psa": null
+        },
+        {
+          "weight": 13,
+          "radiusOfGyration": 2.61,
+          "differential": 0.021,
+          "psa": null
+        },
+        {
+          "weight": 14,
+          "radiusOfGyration": 2.59,
+          "differential": 0.022,
+          "psa": null
+        },
+        {
+          "weight": 15,
+          "radiusOfGyration": 2.57,
+          "differential": 0.022,
+          "psa": null
+        },
+        {
+          "weight": 16,
+          "radiusOfGyration": 2.56,
+          "differential": 0.023,
+          "psa": null
+        }
+      ],
+      "stats": {
+        "flarePotential": {
+          "min": 4,
+          "max": 4,
+          "middle": 4.0
+        },
+        "ballShape": {
+          "min": 1,
+          "max": 1,
+          "middle": 1.0
+        },
+        "hookLength": {
+          "min": 1,
+          "max": 1,
+          "middle": 1.0
+        },
+        "oilVolume": {
+          "min": 7,
+          "max": 11,
+          "middle": 9.0
+        },
+        "patternLength": {
+          "min": 1,
+          "max": 5,
+          "middle": 3.0
+        },
+        "laneCondition": {
+          "min": 1,
+          "max": 2,
+          "middle": 1.5
+        }
+      },
+      "source": "scrape",
+      "updatedAt": "2026-09-11"
+    },
+    {
+      "id": 18,
+      "sku": "BBMTTY",
+      "name": "HY-ROAD",
+      "normalizedName": "Hy-Road",
+      "url": "https://www.stormbowling.com/storm-hy-road-bowling-ball",
+      "image": "https://assets.1.commercebuild.com/d186dcd2044cf54d8e48876defef4907/contents/BBMTTY/BBMTTY.png",
+      "imageLocal": "balls/hy-road-bbmtty.png",
+      "image360Local": "balls/hy-road-bbmtty_360.png",
+      "thumbLocal": "balls/thumbs/hy-road-bbmtty.webp",
+      "smallThumbLocal": "balls/thumbs/small/hy-road-bbmtty.webp",
+      "brand": "Storm",
+      "line": "Thunder",
+      "core": "No Core",
+      "weightBlock": "Inverted Fe2",
+      "factoryFinish": "Power Edge",
+      "durometer": {
+        "min": 73,
+        "max": 75
+      },
+      "symmetry": "Symmetrical",
+      "flarePotential": "Medium-High",
+      "coverstock": "R2S Hybrid",
+      "coverstockBase": "R2S",
+      "coverstockType": "Hybrid",
+      "coverstockStrength": 4.57,
+      "color": "Black/Ultramarine Blue",
+      "releaseDate": "11/18/08",
+      "fragrance": "Combination Berry",
+      "availableForSalesOrders": true,
+      "isAvailable": true,
+      "matchMaker": "56",
+      "matchMakerApp": true,
+      "versionByWeight": [
+        {
+          "weight": 12,
+          "radiusOfGyration": 2.65,
+          "differential": 0.035,
+          "psa": null
+        },
+        {
+          "weight": 13,
+          "radiusOfGyration": 2.59,
+          "differential": 0.045,
+          "psa": null
+        },
+        {
+          "weight": 14,
+          "radiusOfGyration": 2.58,
+          "differential": 0.037,
+          "psa": null
+        },
+        {
+          "weight": 15,
+          "radiusOfGyration": 2.57,
+          "differential": 0.046,
+          "psa": null
+        },
+        {
+          "weight": 16,
+          "radiusOfGyration": 2.52,
+          "differential": 0.058,
+          "psa": null
+        }
+      ],
+      "stats": {
+        "flarePotential": {
+          "min": 9,
+          "max": 9,
+          "middle": 9.0
+        },
+        "ballShape": {
+          "min": 9,
+          "max": 9,
+          "middle": 9.0
+        },
+        "hookLength": {
+          "min": 9,
+          "max": 10,
+          "middle": 9.5
+        },
+        "oilVolume": {
+          "min": 1,
+          "max": 3,
+          "middle": 2.0
+        },
+        "patternLength": {
+          "min": 5,
+          "max": 7,
+          "middle": 6.0
+        },
+        "laneCondition": {
+          "min": 9,
+          "max": 10,
+          "middle": 9.5
+        }
+      },
+      "source": "scrape",
+      "updatedAt": "2026-09-18"
+    },
+    {
+      "id": 19,
+      "sku": "BBMVMN",
+      "name": "MONSOON",
+      "normalizedName": "Monsoon",
+      "url": "https://www.stormbowling.com/storm-monsoon-bowling-ball",
+      "image": "https://assets.1.commercebuild.com/d186dcd2044cf54d8e48876defef4907/contents/BBMVMN/BBMVMN@1.png",
+      "imageLocal": "balls/monsoon-bbmvmn.png",
+      "image360Local": "balls/monsoon-bbmvmn_360.png",
+      "thumbLocal": "balls/thumbs/monsoon-bbmvmn.webp",
+      "smallThumbLocal": "balls/thumbs/small/monsoon-bbmvmn.webp",
+      "brand": "Storm",
+      "line": "Hot",
+      "core": "AI",
+      "weightBlock": "Atmos AI",
+      "factoryFinish": "2000 Grit",
+      "durometer": {
+        "min": 74,
+        "max": 76
+      },
+      "symmetry": "Symmetrical",
+      "flarePotential": "Medium",
+      "coverstock": "Reactor Solid",
+      "coverstockBase": "Reactor",
+      "coverstockType": "Solid",
+      "coverstockStrength": 3.86,
+      "color": "Plum/Emerald",
+      "releaseDate": "05/01/26",
+      "fragrance": "Grapple",
+      "availableForSalesOrders": true,
+      "isAvailable": true,
+      "matchMaker": null,
+      "matchMakerApp": null,
+      "versionByWeight": [
+        {
+          "weight": 10,
+          "radiusOfGyration": 2.77,
+          "differential": 0.015,
+          "psa": null
+        },
+        {
+          "weight": 11,
+          "radiusOfGyration": 2.73,
+          "differential": 0.012,
+          "psa": null
+        },
+        {
+          "weight": 12,
+          "radiusOfGyration": 2.64,
+          "differential": 0.037,
+          "psa": null
+        },
+        {
+          "weight": 13,
+          "radiusOfGyration": 2.58,
+          "differential": 0.047,
+          "psa": null
+        },
+        {
+          "weight": 14,
+          "radiusOfGyration": 2.53,
+          "differential": 0.039,
+          "psa": null
+        },
+        {
+          "weight": 15,
+          "radiusOfGyration": 2.53,
+          "differential": 0.042,
+          "psa": null
+        },
+        {
+          "weight": 16,
+          "radiusOfGyration": 2.53,
+          "differential": 0.042,
+          "psa": null
+        }
+      ],
+      "stats": {
+        "flarePotential": {
+          "min": 8,
+          "max": 8,
+          "middle": 8.0
+        },
+        "ballShape": {
+          "min": 4,
+          "max": 6,
+          "middle": 5.0
+        },
+        "hookLength": {
+          "min": 6,
+          "max": 8,
+          "middle": 7.0
+        },
+        "oilVolume": {
+          "min": 5,
+          "max": 7,
+          "middle": 6.0
+        },
+        "patternLength": {
+          "min": 6,
+          "max": 8,
+          "middle": 7.0
+        },
+        "laneCondition": {
+          "min": 3,
+          "max": 5,
+          "middle": 4.0
+        }
+      },
+      "source": "scrape",
+      "updatedAt": "2026-09-27"
+    },
+    {
+      "id": 20,
+      "sku": "BBMVTY",
+      "name": "TYPHOON",
+      "normalizedName": "Typhoon",
+      "url": "https://www.stormbowling.com/storm-typhoon-bowling-ball",
+      "image": "https://assets.1.commercebuild.com/d186dcd2044cf54d8e48876defef4907/contents/BBMVTY/BBMVTY.png",
+      "imageLocal": "balls/typhoon-bbmvty.png",
+      "image360Local": "balls/typhoon-bbmvty_360.png",
+      "thumbLocal": "balls/thumbs/typhoon-bbmvty.webp",
+      "smallThumbLocal": "balls/thumbs/small/typhoon-bbmvty.webp",
+      "brand": "Storm",
+      "line": "Hot",
+      "core": "AI",
+      "weightBlock": "Atmos AI",
+      "factoryFinish": "Power Edge",
+      "durometer": {
+        "min": 73,
+        "max": 75
+      },
+      "symmetry": "Symmetrical",
+      "flarePotential": "Medium",
+      "coverstock": "Reactor Pearl",
+      "coverstockBase": "Reactor",
+      "coverstockType": "Pearl",
+      "coverstockStrength": 3.86,
+      "color": "Royal Purple/Steel",
+      "releaseDate": "04/18/25",
+      "fragrance": "Grape Punch",
+      "availableForSalesOrders": true,
+      "isAvailable": true,
+      "matchMaker": null,
+      "matchMakerApp": null,
+      "versionByWeight": [
+        {
+          "weight": 10,
+          "radiusOfGyration": 2.77,
+          "differential": 0.015,
+          "psa": null
+        },
+        {
+          "weight": 11,
+          "radiusOfGyration": 2.73,
+          "differential": 0.012,
+          "psa": null
+        },
+        {
+          "weight": 12,
+          "radiusOfGyration": 2.64,
+          "differential": 0.037,
+          "psa": null
+        },
+        {
+          "weight": 13,
+          "radiusOfGyration": 2.58,
+          "differential": 0.047,
+          "psa": null
+        },
+        {
+          "weight": 14,
+          "radiusOfGyration": 2.53,
+          "differential": 0.039,
+          "psa": null
+        },
+        {
+          "weight": 15,
+          "radiusOfGyration": 2.53,
+          "differential": 0.042,
+          "psa": null
+        },
+        {
+          "weight": 16,
+          "radiusOfGyration": 2.53,
+          "differential": 0.042,
+          "psa": null
+        }
+      ],
+      "stats": {
+        "flarePotential": {
+          "min": 7,
+          "max": 7,
+          "middle": 7.0
+        },
+        "ballShape": {
+          "min": 9,
+          "max": 10,
+          "middle": 9.5
+        },
+        "hookLength": {
+          "min": 10,
+          "max": 10,
+          "middle": 10.0
+        },
+        "oilVolume": {
+          "min": 1,
+          "max": 3,
+          "middle": 2.0
+        },
+        "patternLength": {
+          "min": 4,
+          "max": 6,
+          "middle": 5.0
+        },
+        "laneCondition": {
+          "min": 9,
+          "max": 11,
+          "middle": 10.0
+        }
+      },
+      "source": "scrape",
+      "updatedAt": "2026-09-11"
+    },
+    {
+      "id": 21,
+      "sku": "BBMVKV",
+      "name": "Tropical Surge Kiwi-Apple-Avocado",
+      "normalizedName": "Tropical Surge Kiwi-Apple-Avocado",
+      "url": "https://www.stormbowling.com/storm-tropical-surge-kiwi-apple-avocado-bowling-ball",
+      "image": "https://assets.1.commercebuild.com/d186dcd2044cf54d8e48876defef4907/contents/BBMVKV/BBMVKV.png?v=a702c6a5",
+      "imageLocal": "balls/tropical-surge-kiwi-apple-avocado-bbmvkv.png",
+      "image360Local": "balls/tropical-surge-kiwi-apple-avocado-bbmvkv_360.png",
+      "thumbLocal": "balls/thumbs/tropical-surge-kiwi-apple-avocado-bbmvkv.webp",
+      "smallThumbLocal": "balls/thumbs/small/tropical-surge-kiwi-apple-avocado-bbmvkv.webp",
+      "brand": "Storm",
+      "line": "Tropical",
+      "core": "Light Weight",
+      "weightBlock": "Surge Core",
+      "factoryFinish": "Power Edge",
+      "durometer": {
+        "min": 73,
+        "max": 75
+      },
+      "symmetry": "Symmetrical",
+      "flarePotential": "Medium-Low",
+      "coverstock": "Reactor Pearl",
+      "coverstockBase": "Reactor",
+      "coverstockType": "Pearl",
+      "coverstockStrength": 3.86,
+      "color": "Kiwi/Apple/Avocado",
+      "releaseDate": "07/10/26",
+      "fragrance": null,
+      "availableForSalesOrders": true,
+      "isAvailable": true,
+      "matchMaker": null,
+      "matchMakerApp": null,
+      "versionByWeight": [
+        {
+          "weight": 10,
+          "radiusOfGyration": 2.8,
+          "differential": 0.002,
+          "psa": null
+        },
+        {
+          "weight": 11,
+          "radiusOfGyration": 2.76,
+          "differential": 0.002,
+          "psa": null
+        },
+        {
+          "weight": 12,
+          "radiusOfGyration": 2.64,
+          "differential": 0.02,
+          "psa": null
+        },
+        {
+          "weight": 13,
+          "radiusOfGyration": 2.62,
+          "differential": 0.021,
+          "psa": null
+        },
+        {
+          "weight": 14,
+          "radiusOfGyration": 2.6,
+          "differential": 0.025,
+          "psa": null
+        },
+        {
+          "weight": 15,
+          "radiusOfGyration": 2.58,
+          "differential": 0.024,
+          "psa": null
+        }
+      ],
+      "stats": null,
+      "source": "scrape",
+      "updatedAt": "2026-09-11"
+    },
+    {
+      "id": 22,
+      "sku": "BBMVGM",
+      "name": "Tropical Surge Gold-Bronze-Medallion",
+      "normalizedName": "Tropical Surge Gold-Bronze-Medallion",
+      "url": "https://www.stormbowling.com/storm-tropical-surge-gold-bronze-medallion-bowling-ball",
+      "image": "https://assets.1.commercebuild.com/d186dcd2044cf54d8e48876defef4907/contents/BBMVGM/BBMVGM.png?v=24f542e7",
+      "imageLocal": "balls/tropical-surge-gold-bronze-medallion-bbmvgm.png",
+      "image360Local": "balls/tropical-surge-gold-bronze-medallion-bbmvgm_360.png",
+      "thumbLocal": "balls/thumbs/tropical-surge-gold-bronze-medallion-bbmvgm.webp",
+      "smallThumbLocal": "balls/thumbs/small/tropical-surge-gold-bronze-medallion-bbmvgm.webp",
+      "brand": "Storm",
+      "line": "Tropical",
+      "core": "Light Weight",
+      "weightBlock": "Surge Core",
+      "factoryFinish": "Power Edge",
+      "durometer": {
+        "min": 73,
+        "max": 75
+      },
+      "symmetry": "Symmetrical",
+      "flarePotential": "Medium-Low",
+      "coverstock": "Reactor Pearl",
+      "coverstockBase": "Reactor",
+      "coverstockType": "Pearl",
+      "coverstockStrength": 3.86,
+      "color": "Gold/Bronze/Medallion",
+      "releaseDate": "07/10/26",
+      "fragrance": null,
+      "availableForSalesOrders": true,
+      "isAvailable": true,
+      "matchMaker": null,
+      "matchMakerApp": null,
+      "versionByWeight": [
+        {
+          "weight": 10,
+          "radiusOfGyration": 2.8,
+          "differential": 0.002,
+          "psa": null
+        },
+        {
+          "weight": 11,
+          "radiusOfGyration": 2.76,
+          "differential": 0.002,
+          "psa": null
+        },
+        {
+          "weight": 12,
+          "radiusOfGyration": 2.64,
+          "differential": 0.02,
+          "psa": null
+        },
+        {
+          "weight": 13,
+          "radiusOfGyration": 2.62,
+          "differential": 0.021,
+          "psa": null
+        },
+        {
+          "weight": 14,
+          "radiusOfGyration": 2.6,
+          "differential": 0.025,
+          "psa": null
+        },
+        {
+          "weight": 15,
+          "radiusOfGyration": 2.58,
+          "differential": 0.024,
+          "psa": null
+        }
+      ],
+      "stats": null,
+      "source": "scrape",
+      "updatedAt": "2026-09-11"
+    },
+    {
+      "id": 23,
+      "sku": "BT1VKK",
+      "name": "TROPICAL SURGE BLACK-BLUE-PINK",
+      "normalizedName": "Tropical Surge Black-Blue-Pink",
+      "url": "https://www.stormbowling.com/storm-tropical-surge-bowling-ball-black-blue-pink",
+      "image": "https://assets.1.commercebuild.com/d186dcd2044cf54d8e48876defef4907/contents/BT1VKK/Tropical_Surge_Black-Blue-Pink.PNG",
+      "imageLocal": "balls/tropical-surge-black-blue-pink-bt1vkk.PNG",
+      "image360Local": null,
+      "thumbLocal": "balls/thumbs/tropical-surge-black-blue-pink-bt1vkk.webp",
+      "smallThumbLocal": "balls/thumbs/small/tropical-surge-black-blue-pink-bt1vkk.webp",
+      "brand": "Storm",
+      "line": "Tropical",
+      "core": null,
+      "weightBlock": "Surge Core",
+      "factoryFinish": null,
+      "durometer": null,
+      "symmetry": "Symmetrical",
+      "flarePotential": null,
+      "coverstock": "Reactor Solid",
+      "coverstockBase": "Reactor",
+      "coverstockType": "Solid",
+      "coverstockStrength": 3.86,
+      "color": "Black/Blue/Pink",
+      "releaseDate": null,
+      "fragrance": null,
+      "availableForSalesOrders": true,
+      "isAvailable": true,
+      "matchMaker": null,
+      "matchMakerApp": null,
+      "versionByWeight": [],
+      "stats": {
+        "flarePotential": {
+          "min": 3,
+          "max": 3,
+          "middle": 3.0
+        },
+        "ballShape": {
+          "min": 6,
+          "max": 6,
+          "middle": 6.0
+        },
+        "hookLength": {
+          "min": 10,
+          "max": 11,
+          "middle": 10.5
+        },
+        "oilVolume": {
+          "min": 1,
+          "max": 2,
+          "middle": 1.5
+        },
+        "patternLength": {
+          "min": 3,
+          "max": 9,
+          "middle": 6.0
+        },
+        "laneCondition": {
+          "min": 10,
+          "max": 11,
+          "middle": 10.5
+        }
+      },
+      "source": "scrape",
+      "updatedAt": "2026-09-28"
+    },
+    {
+      "id": 24,
+      "sku": "BT1TQY",
+      "name": "TROPICAL SURGE BLACK-CHERRY",
+      "normalizedName": "Tropical Surge Black-Cherry",
+      "url": "https://www.stormbowling.com/storm-tropical-surge-bowling-ball-black-cherry",
+      "image": "https://assets.1.commercebuild.com/d186dcd2044cf54d8e48876defef4907/contents/BT1TQY/BT1TQY.png",
+      "imageLocal": "balls/tropical-surge-black-cherry-bt1tqy.png",
+      "image360Local": null,
+      "thumbLocal": "balls/thumbs/tropical-surge-black-cherry-bt1tqy.webp",
+      "smallThumbLocal": "balls/thumbs/small/tropical-surge-black-cherry-bt1tqy.webp",
+      "brand": "Storm",
+      "line": "Tropical",
+      "core": "Light Weight",
+      "weightBlock": "Surge Core",
+      "factoryFinish": "1500 Grit Polished",
+      "durometer": {
+        "min": 73,
+        "max": 75
+      },
+      "symmetry": "Symmetrical",
+      "flarePotential": "Low",
+      "coverstock": "Reactor Hybrid",
+      "coverstockBase": "Reactor",
+      "coverstockType": "Hybrid",
+      "coverstockStrength": 3.86,
+      "color": "Black/Cherry",
+      "releaseDate": null,
+      "fragrance": "Cherry",
+      "availableForSalesOrders": true,
+      "isAvailable": true,
+      "matchMaker": null,
+      "matchMakerApp": null,
+      "versionByWeight": [
+        {
+          "weight": 10,
+          "radiusOfGyration": 2.8,
+          "differential": 0.002,
+          "psa": null
+        },
+        {
+          "weight": 11,
+          "radiusOfGyration": 2.76,
+          "differential": 0.002,
+          "psa": null
+        },
+        {
+          "weight": 12,
+          "radiusOfGyration": 2.64,
+          "differential": 0.02,
+          "psa": null
+        },
+        {
+          "weight": 13,
+          "radiusOfGyration": 2.62,
+          "differential": 0.021,
+          "psa": null
+        },
+        {
+          "weight": 14,
+          "radiusOfGyration": 2.6,
+          "differential": 0.025,
+          "psa": null
+        },
+        {
+          "weight": 15,
+          "radiusOfGyration": 2.58,
+          "differential": 0.024,
+          "psa": null
+        }
+      ],
+      "stats": null,
+      "source": "scrape",
+      "updatedAt": "2026-09-11"
+    },
+    {
+      "id": 25,
+      "sku": "BT1TQZ",
+      "name": "TROPICAL SURGE TEAL-BLUE",
+      "normalizedName": "Tropical Surge Teal-Blue",
+      "url": "https://www.stormbowling.com/storm-tropical-surge-bowling-ball-teal-blue",
+      "image": "https://assets.1.commercebuild.com/d186dcd2044cf54d8e48876defef4907/contents/BT1TQZ/3D_Ball_-_Teal_Blue_PNG.png?v=4bb2c98c",
+      "imageLocal": "balls/tropical-surge-teal-blue-bt1tqz.png",
+      "image360Local": null,
+      "thumbLocal": "balls/thumbs/tropical-surge-teal-blue-bt1tqz.webp",
+      "smallThumbLocal": "balls/thumbs/small/tropical-surge-teal-blue-bt1tqz.webp",
+      "brand": "Storm",
+      "line": "Tropical",
+      "core": "Light Weight",
+      "weightBlock": "Surge Core",
+      "factoryFinish": "1500 Grit Polished",
+      "durometer": {
+        "min": 73,
+        "max": 75
+      },
+      "symmetry": "Symmetrical",
+      "flarePotential": "Low",
+      "coverstock": "Reactor Pearl",
+      "coverstockBase": "Reactor",
+      "coverstockType": "Pearl",
+      "coverstockStrength": 3.86,
+      "color": "Teal/Blue",
+      "releaseDate": null,
+      "fragrance": "Blueberry",
+      "availableForSalesOrders": true,
+      "isAvailable": true,
+      "matchMaker": null,
+      "matchMakerApp": null,
+      "versionByWeight": [
+        {
+          "weight": 10,
+          "radiusOfGyration": 2.8,
+          "differential": 0.002,
+          "psa": null
+        },
+        {
+          "weight": 11,
+          "radiusOfGyration": 2.76,
+          "differential": 0.002,
+          "psa": null
+        },
+        {
+          "weight": 12,
+          "radiusOfGyration": 2.64,
+          "differential": 0.02,
+          "psa": null
+        },
+        {
+          "weight": 13,
+          "radiusOfGyration": 2.62,
+          "differential": 0.021,
+          "psa": null
+        },
+        {
+          "weight": 14,
+          "radiusOfGyration": 2.6,
+          "differential": 0.025,
+          "psa": null
+        },
+        {
+          "weight": 15,
+          "radiusOfGyration": 2.58,
+          "differential": 0.024,
+          "psa": null
+        }
+      ],
+      "stats": null,
+      "source": "scrape",
+      "updatedAt": "2026-09-11"
+    },
+    {
+      "id": 26,
+      "sku": "BT1VVU",
+      "name": "TROPICAL SURGE SILVER-PURPLE",
+      "normalizedName": "Tropical Surge Silver-Purple",
+      "url": "https://www.stormbowling.com/storm-tropical-surge-bowling-ball-silver-purple",
+      "image": "https://assets.1.commercebuild.com/d186dcd2044cf54d8e48876defef4907/contents/BT1VVU/Tropical_Surge_Silver-Purple.png",
+      "imageLocal": "balls/tropical-surge-silver-purple-bt1vvu.png",
+      "image360Local": null,
+      "thumbLocal": "balls/thumbs/tropical-surge-silver-purple-bt1vvu.webp",
+      "smallThumbLocal": "balls/thumbs/small/tropical-surge-silver-purple-bt1vvu.webp",
+      "brand": "Storm",
+      "line": "Tropical",
+      "core": null,
+      "weightBlock": "Surge Core",
+      "factoryFinish": null,
+      "durometer": null,
+      "symmetry": "Symmetrical",
+      "flarePotential": null,
+      "coverstock": "Reactor Pearl",
+      "coverstockBase": "Reactor",
+      "coverstockType": "Pearl",
+      "coverstockStrength": 3.86,
+      "color": "Silver/Purple",
+      "releaseDate": null,
+      "fragrance": null,
+      "availableForSalesOrders": true,
+      "isAvailable": true,
+      "matchMaker": null,
+      "matchMakerApp": null,
+      "versionByWeight": [],
+      "stats": {
+        "flarePotential": {
+          "min": 3,
+          "max": 3,
+          "middle": 3.0
+        },
+        "ballShape": {
+          "min": 6,
+          "max": 6,
+          "middle": 6.0
+        },
+        "hookLength": {
+          "min": 10,
+          "max": 11,
+          "middle": 10.5
+        },
+        "oilVolume": {
+          "min": 1,
+          "max": 2,
+          "middle": 1.5
+        },
+        "patternLength": {
+          "min": 4,
+          "max": 8,
+          "middle": 6.0
+        },
+        "laneCondition": {
+          "min": 10,
+          "max": 11,
+          "middle": 10.5
+        }
+      },
+      "source": "scrape",
+      "updatedAt": "2026-09-28"
+    },
+    {
+      "id": 27,
+      "sku": "BT1VEC",
+      "name": "TROPICAL SURGE EMERALD-CHARCOAL",
+      "normalizedName": "Tropical Surge Emerald-Charcoal",
+      "url": "https://www.stormbowling.com/storm-tropical-surge-bowling-ball-emerald-charcoal",
+      "image": "https://assets.1.commercebuild.com/d186dcd2044cf54d8e48876defef4907/contents/BT1VEC/BT1VEC.png",
+      "imageLocal": "balls/tropical-surge-emerald-charcoal-bt1vec.png",
+      "image360Local": null,
+      "thumbLocal": "balls/thumbs/tropical-surge-emerald-charcoal-bt1vec.webp",
+      "smallThumbLocal": "balls/thumbs/small/tropical-surge-emerald-charcoal-bt1vec.webp",
+      "brand": "Storm",
+      "line": "Tropical",
+      "core": "Light Weight",
+      "weightBlock": "Surge Core",
+      "factoryFinish": "1500 Grit Polished",
+      "durometer": {
+        "min": 73,
+        "max": 75
+      },
+      "symmetry": "Symmetrical",
+      "flarePotential": "Medium-Low",
+      "coverstock": "Reactor Pearl",
+      "coverstockBase": "Reactor",
+      "coverstockType": "Pearl",
+      "coverstockStrength": 3.86,
+      "color": "Emerald/Charcoal",
+      "releaseDate": "04/15/22",
+      "fragrance": "Vanilla",
+      "availableForSalesOrders": true,
+      "isAvailable": true,
+      "matchMaker": null,
+      "matchMakerApp": null,
+      "versionByWeight": [
+        {
+          "weight": 10,
+          "radiusOfGyration": 2.8,
+          "differential": 0.002,
+          "psa": null
+        },
+        {
+          "weight": 11,
+          "radiusOfGyration": 2.76,
+          "differential": 0.002,
+          "psa": null
+        },
+        {
+          "weight": 12,
+          "radiusOfGyration": 2.64,
+          "differential": 0.02,
+          "psa": null
+        },
+        {
+          "weight": 13,
+          "radiusOfGyration": 2.62,
+          "differential": 0.021,
+          "psa": null
+        },
+        {
+          "weight": 14,
+          "radiusOfGyration": 2.6,
+          "differential": 0.025,
+          "psa": null
+        },
+        {
+          "weight": 15,
+          "radiusOfGyration": 2.58,
+          "differential": 0.024,
+          "psa": null
+        }
+      ],
+      "stats": null,
+      "source": "scrape",
+      "updatedAt": "2026-09-11"
+    },
+    {
+      "id": 28,
+      "sku": "BT1TQI",
+      "name": "TROPICAL SURGE PINK-PURPLE",
+      "normalizedName": "Tropical Surge Pink-Purple",
+      "url": "https://www.stormbowling.com/storm-tropical-surge-bowling-ball-pink-purple",
+      "image": "https://assets.1.commercebuild.com/d186dcd2044cf54d8e48876defef4907/contents/BT1TQI/Tropical_Surge_Pink-Purple.png",
+      "imageLocal": "balls/tropical-surge-pink-purple-bt1tqi.png",
+      "image360Local": null,
+      "thumbLocal": "balls/thumbs/tropical-surge-pink-purple-bt1tqi.webp",
+      "smallThumbLocal": "balls/thumbs/small/tropical-surge-pink-purple-bt1tqi.webp",
+      "brand": "Storm",
+      "line": "Tropical",
+      "core": "Light Weight",
+      "weightBlock": "Surge Core",
+      "factoryFinish": "1500 Grit Polished",
+      "durometer": {
+        "min": 73,
+        "max": 75
+      },
+      "symmetry": "Symmetrical",
+      "flarePotential": "Low",
+      "coverstock": "Reactor Pearl",
+      "coverstockBase": "Reactor",
+      "coverstockType": "Pearl",
+      "coverstockStrength": 3.86,
+      "color": "Pink/Purple",
+      "releaseDate": null,
+      "fragrance": null,
+      "availableForSalesOrders": true,
+      "isAvailable": true,
+      "matchMaker": null,
+      "matchMakerApp": null,
+      "versionByWeight": [
+        {
+          "weight": 10,
+          "radiusOfGyration": 2.8,
+          "differential": 0.002,
+          "psa": null
+        },
+        {
+          "weight": 11,
+          "radiusOfGyration": 2.76,
+          "differential": 0.002,
+          "psa": null
+        },
+        {
+          "weight": 12,
+          "radiusOfGyration": 2.64,
+          "differential": 0.02,
+          "psa": null
+        },
+        {
+          "weight": 13,
+          "radiusOfGyration": 2.62,
+          "differential": 0.021,
+          "psa": null
+        },
+        {
+          "weight": 14,
+          "radiusOfGyration": 2.6,
+          "differential": 0.025,
+          "psa": null
+        },
+        {
+          "weight": 15,
+          "radiusOfGyration": 2.58,
+          "differential": 0.024,
+          "psa": null
+        }
+      ],
+      "stats": null,
+      "source": "scrape",
+      "updatedAt": "2026-09-11"
+    },
+    {
+      "id": 29,
+      "sku": "BBPVND",
+      "name": "Storm Norm Duke Clear",
+      "normalizedName": "Storm Norm Duke Clear",
+      "url": "https://www.stormbowling.com/storm-norm-duke-clear-bowling-ball",
+      "image": "https://assets.1.commercebuild.com/d186dcd2044cf54d8e48876defef4907/contents/BBPVND/BBPVND@1.png",
+      "imageLocal": "balls/storm-norm-duke-clear-bbpvnd.png",
+      "image360Local": null,
+      "thumbLocal": "balls/thumbs/storm-norm-duke-clear-bbpvnd.webp",
+      "smallThumbLocal": "balls/thumbs/small/storm-norm-duke-clear-bbpvnd.webp",
+      "brand": "Storm",
+      "line": "Ice",
+      "core": "Light Weight",
+      "weightBlock": "Cube",
+      "factoryFinish": "3500 Grit Polished",
+      "durometer": {
+        "min": 82,
+        "max": 84
+      },
+      "symmetry": "Symmetrical",
+      "flarePotential": "Low",
+      "coverstock": "Poly Clear",
+      "coverstockBase": "Polyester",
+      "coverstockType": null,
+      "coverstockStrength": 1.0,
+      "color": "Clear/Blue",
+      "releaseDate": "04/10/26",
+      "fragrance": null,
+      "availableForSalesOrders": true,
+      "isAvailable": true,
+      "matchMaker": null,
+      "matchMakerApp": null,
+      "versionByWeight": [
+        {
+          "weight": 12,
+          "radiusOfGyration": 2.8,
+          "differential": 0.018,
+          "psa": null
+        },
+        {
+          "weight": 13,
+          "radiusOfGyration": 2.78,
+          "differential": 0.018,
+          "psa": null
+        },
+        {
+          "weight": 14,
+          "radiusOfGyration": 2.73,
+          "differential": 0.018,
+          "psa": null
+        },
+        {
+          "weight": 15,
+          "radiusOfGyration": 2.66,
+          "differential": 0.018,
+          "psa": null
+        },
+        {
+          "weight": 16,
+          "radiusOfGyration": 2.62,
+          "differential": 0.018,
+          "psa": null
+        }
+      ],
+      "stats": {
+        "flarePotential": {
+          "min": 3,
+          "max": 3,
+          "middle": 3.0
+        },
+        "ballShape": {
+          "min": 1,
+          "max": 1,
+          "middle": 1.0
+        },
+        "hookLength": {
+          "min": 11,
+          "max": 11,
+          "middle": 11.0
+        },
+        "oilVolume": {
+          "min": 1,
+          "max": 1,
+          "middle": 1.0
+        },
+        "patternLength": {
+          "min": 1,
+          "max": 1,
+          "middle": 1.0
+        },
+        "laneCondition": {
+          "min": 11,
+          "max": 11,
+          "middle": 11.0
+        }
+      },
+      "source": "scrape",
+      "updatedAt": "2026-09-11"
+    },
+    {
+      "id": 30,
+      "sku": "BBPVRT",
+      "name": "CLEAR STORM TEAL",
+      "normalizedName": "Clear Storm Teal",
+      "url": "https://www.stormbowling.com/storm-clear-storm-teal-bowling-ball",
+      "image": "https://assets.1.commercebuild.com/d186dcd2044cf54d8e48876defef4907/contents/BBPVRT/BBPVRT.png",
+      "imageLocal": "balls/clear-storm-teal-bbpvrt.png",
+      "image360Local": null,
+      "thumbLocal": "balls/thumbs/clear-storm-teal-bbpvrt.webp",
+      "smallThumbLocal": "balls/thumbs/small/clear-storm-teal-bbpvrt.webp",
+      "brand": "Storm",
+      "line": "Ice",
+      "core": "Light Weight",
+      "weightBlock": "Cube",
+      "factoryFinish": "3500 Grit Polished",
+      "durometer": {
+        "min": 82,
+        "max": 84
+      },
+      "symmetry": "Symmetrical",
+      "flarePotential": "Low",
+      "coverstock": "Clear Polyester",
+      "coverstockBase": "Polyester",
+      "coverstockType": null,
+      "coverstockStrength": 1.0,
+      "color": "Teal/Black",
+      "releaseDate": null,
+      "fragrance": null,
+      "availableForSalesOrders": true,
+      "isAvailable": true,
+      "matchMaker": null,
+      "matchMakerApp": null,
+      "versionByWeight": [
+        {
+          "weight": 14,
+          "radiusOfGyration": 2.73,
+          "differential": 0.018,
+          "psa": null
+        },
+        {
+          "weight": 15,
+          "radiusOfGyration": 2.66,
+          "differential": 0.018,
+          "psa": null
+        },
+        {
+          "weight": 16,
+          "radiusOfGyration": 2.62,
+          "differential": 0.018,
+          "psa": null
+        }
+      ],
+      "stats": null,
+      "source": "scrape",
+      "updatedAt": "2026-09-11"
+    },
+    {
+      "id": 31,
+      "sku": "BBPVCL",
+      "name": "LIGHTNING STORM CLEAR",
+      "normalizedName": "Lightning Storm Clear",
+      "url": "https://www.stormbowling.com/storm-lightning-storm-clear-bowling-ball",
+      "image": "https://assets.1.commercebuild.com/d186dcd2044cf54d8e48876defef4907/contents/BBPVCL/BBPVCL.png",
+      "imageLocal": "balls/lightning-storm-clear-bbpvcl.png",
+      "image360Local": null,
+      "thumbLocal": "balls/thumbs/lightning-storm-clear-bbpvcl.webp",
+      "smallThumbLocal": "balls/thumbs/small/lightning-storm-clear-bbpvcl.webp",
+      "brand": "Storm",
+      "line": "Ice",
+      "core": "Light Weight",
+      "weightBlock": "3 Piece",
+      "factoryFinish": "3500 Grit Polished",
+      "durometer": {
+        "min": 82,
+        "max": 84
+      },
+      "symmetry": "Symmetrical",
+      "flarePotential": "Low",
+      "coverstock": "Clear Polyester",
+      "coverstockBase": "Polyester",
+      "coverstockType": null,
+      "coverstockStrength": 1.0,
+      "color": "Multicolor",
+      "releaseDate": "02/09/24",
+      "fragrance": "None",
+      "availableForSalesOrders": true,
+      "isAvailable": false,
+      "matchMaker": null,
+      "matchMakerApp": null,
+      "versionByWeight": [
+        {
+          "weight": 12,
+          "radiusOfGyration": 2.72,
+          "differential": 0.005,
+          "psa": null
+        },
+        {
+          "weight": 13,
+          "radiusOfGyration": 2.71,
+          "differential": 0.005,
+          "psa": null
+        },
+        {
+          "weight": 14,
+          "radiusOfGyration": 2.69,
+          "differential": 0.006,
+          "psa": null
+        },
+        {
+          "weight": 15,
+          "radiusOfGyration": 2.69,
+          "differential": 0.006,
+          "psa": null
+        },
+        {
+          "weight": 16,
+          "radiusOfGyration": 2.68,
+          "differential": 0.006,
+          "psa": null
+        }
+      ],
+      "stats": null,
+      "source": "scrape",
+      "updatedAt": "2026-09-24"
+    },
+    {
+      "id": 32,
+      "sku": "BBPVWG",
+      "name": "ICE STORM BLACK-WHITE-GOLD",
+      "normalizedName": "Ice Storm Black-White-Gold",
+      "url": "https://www.stormbowling.com/storm-ice-storm-bowling-ball-black-white-gold",
+      "image": "https://assets.1.commercebuild.com/d186dcd2044cf54d8e48876defef4907/contents/BBPVWG/BBPVWG.png",
+      "imageLocal": "balls/ice-storm-black-white-gold-bbpvwg.png",
+      "image360Local": null,
+      "thumbLocal": "balls/thumbs/ice-storm-black-white-gold-bbpvwg.webp",
+      "smallThumbLocal": "balls/thumbs/small/ice-storm-black-white-gold-bbpvwg.webp",
+      "brand": "Storm",
+      "line": "Ice",
+      "core": "Light Weight",
+      "weightBlock": "3 Piece",
+      "factoryFinish": "3500 Grit Polished",
+      "durometer": {
+        "min": 82,
+        "max": 84
+      },
+      "symmetry": "Symmetrical",
+      "flarePotential": "Low",
+      "coverstock": "Poly Pearl",
+      "coverstockBase": "Polyester",
+      "coverstockType": "Pearl",
+      "coverstockStrength": 1.0,
+      "color": "Black/White/Gold",
+      "releaseDate": null,
+      "fragrance": null,
+      "availableForSalesOrders": true,
+      "isAvailable": true,
+      "matchMaker": null,
+      "matchMakerApp": null,
+      "versionByWeight": [
+        {
+          "weight": 10,
+          "radiusOfGyration": 2.72,
+          "differential": 0.005,
+          "psa": null
+        },
+        {
+          "weight": 13,
+          "radiusOfGyration": 2.71,
+          "differential": 0.005,
+          "psa": null
+        },
+        {
+          "weight": 14,
+          "radiusOfGyration": 2.69,
+          "differential": 0.006,
+          "psa": null
+        },
+        {
+          "weight": 15,
+          "radiusOfGyration": 2.69,
+          "differential": 0.006,
+          "psa": null
+        },
+        {
+          "weight": 16,
+          "radiusOfGyration": 2.68,
+          "differential": 0.006,
+          "psa": null
+        }
+      ],
+      "stats": null,
+      "source": "scrape",
+      "updatedAt": "2026-09-11"
+    },
+    {
+      "id": 33,
+      "sku": "BBPVOB",
+      "name": "ICE STORM OCEAN BLUE-WHITE",
+      "normalizedName": "Ice Storm Ocean Blue-White",
+      "url": "https://www.stormbowling.com/storm-ice-storm-bowling-ball-ocean-blue-white",
+      "image": "https://assets.1.commercebuild.com/d186dcd2044cf54d8e48876defef4907/contents/BBPVOB/BBPVOB.png",
+      "imageLocal": "balls/ice-storm-ocean-blue-white-bbpvob.png",
+      "image360Local": null,
+      "thumbLocal": "balls/thumbs/ice-storm-ocean-blue-white-bbpvob.webp",
+      "smallThumbLocal": "balls/thumbs/small/ice-storm-ocean-blue-white-bbpvob.webp",
+      "brand": "Storm",
+      "line": "Ice",
+      "core": "Light Weight",
+      "weightBlock": "3 Piece",
+      "factoryFinish": "3500 Grit Polished",
+      "durometer": {
+        "min": 82,
+        "max": 84
+      },
+      "symmetry": "Symmetrical",
+      "flarePotential": "Low",
+      "coverstock": "Poly Hybrid",
+      "coverstockBase": "Polyester",
+      "coverstockType": "Hybrid",
+      "coverstockStrength": 1.0,
+      "color": "Ocean Blue/White",
+      "releaseDate": "01/19/24",
+      "fragrance": "None",
+      "availableForSalesOrders": true,
+      "isAvailable": true,
+      "matchMaker": null,
+      "matchMakerApp": null,
+      "versionByWeight": [
+        {
+          "weight": 10,
+          "radiusOfGyration": 2.72,
+          "differential": 0.005,
+          "psa": null
+        },
+        {
+          "weight": 12,
+          "radiusOfGyration": 2.72,
+          "differential": 0.005,
+          "psa": null
+        },
+        {
+          "weight": 13,
+          "radiusOfGyration": 2.71,
+          "differential": 0.005,
+          "psa": null
+        },
+        {
+          "weight": 14,
+          "radiusOfGyration": 2.69,
+          "differential": 0.006,
+          "psa": null
+        },
+        {
+          "weight": 15,
+          "radiusOfGyration": 2.69,
+          "differential": 0.006,
+          "psa": null
+        },
+        {
+          "weight": 16,
+          "radiusOfGyration": 2.68,
+          "differential": 0.006,
+          "psa": null
+        }
+      ],
+      "stats": null,
+      "source": "scrape",
+      "updatedAt": "2026-09-11"
+    },
+    {
+      "id": 34,
+      "sku": "BBPVPI",
+      "name": "MIX PLATINUM",
+      "normalizedName": "Mix Platinum",
+      "url": "https://www.stormbowling.com/storm-mix-bowling-ball-platinum",
+      "image": "https://assets.1.commercebuild.com/d186dcd2044cf54d8e48876defef4907/contents/BBPVPI/BBPVPI.png",
+      "imageLocal": "balls/mix-platinum-bbpvpi.png",
+      "image360Local": null,
+      "thumbLocal": "balls/thumbs/mix-platinum-bbpvpi.webp",
+      "smallThumbLocal": "balls/thumbs/small/mix-platinum-bbpvpi.webp",
+      "brand": "Storm",
+      "line": "Ice",
+      "core": "Light Weight",
+      "weightBlock": "3 Piece",
+      "factoryFinish": "3500 Grit Polished",
+      "durometer": {
+        "min": 82,
+        "max": 84
+      },
+      "symmetry": "Symmetrical",
+      "flarePotential": "Low",
+      "coverstock": "U1S Urethane Pearl",
+      "coverstockBase": "U1S Urethane",
+      "coverstockType": "Pearl",
+      "coverstockStrength": 1.71,
+      "color": "Platinum",
+      "releaseDate": null,
+      "fragrance": null,
+      "availableForSalesOrders": true,
+      "isAvailable": true,
+      "matchMaker": null,
+      "matchMakerApp": null,
+      "versionByWeight": [
+        {
+          "weight": 10,
+          "radiusOfGyration": 2.72,
+          "differential": 0.005,
+          "psa": null
+        },
+        {
+          "weight": 12,
+          "radiusOfGyration": 2.72,
+          "differential": 0.005,
+          "psa": null
+        },
+        {
+          "weight": 13,
+          "radiusOfGyration": 2.71,
+          "differential": 0.005,
+          "psa": null
+        },
+        {
+          "weight": 14,
+          "radiusOfGyration": 2.69,
+          "differential": 0.006,
+          "psa": null
+        },
+        {
+          "weight": 15,
+          "radiusOfGyration": 2.69,
+          "differential": 0.006,
+          "psa": null
+        },
+        {
+          "weight": 16,
+          "radiusOfGyration": 2.68,
+          "differential": 0.006,
+          "psa": null
+        }
+      ],
+      "stats": null,
+      "source": "scrape",
+      "updatedAt": "2026-09-11"
+    },
+    {
+      "id": 35,
+      "sku": "BBPVVG",
+      "name": "Ice Storm Teal-Silver-Graphite",
+      "normalizedName": "Ice Storm Teal-Silver-Graphite",
+      "url": "https://www.stormbowling.com/storm-ice-storm-bowling-ball-teal-silver-graphite",
+      "image": "https://assets.1.commercebuild.com/d186dcd2044cf54d8e48876defef4907/contents/BBPVVG/BBPVVG.png",
+      "imageLocal": "balls/ice-storm-teal-silver-graphite-bbpvvg.png",
+      "image360Local": null,
+      "thumbLocal": "balls/thumbs/ice-storm-teal-silver-graphite-bbpvvg.webp",
+      "smallThumbLocal": "balls/thumbs/small/ice-storm-teal-silver-graphite-bbpvvg.webp",
+      "brand": "Storm",
+      "line": "Ice",
+      "core": "Light Weight",
+      "weightBlock": "3 Piece",
+      "factoryFinish": "3500 Grit Polished",
+      "durometer": {
+        "min": 82,
+        "max": 84
+      },
+      "symmetry": "Symmetrical",
+      "flarePotential": "Low",
+      "coverstock": "Poly Pearl",
+      "coverstockBase": "Polyester",
+      "coverstockType": "Pearl",
+      "coverstockStrength": 1.0,
+      "color": "Teal/Silver/Graphite",
+      "releaseDate": null,
+      "fragrance": "None",
+      "availableForSalesOrders": true,
+      "isAvailable": true,
+      "matchMaker": null,
+      "matchMakerApp": null,
+      "versionByWeight": [
+        {
+          "weight": 12,
+          "radiusOfGyration": 2.72,
+          "differential": 0.005,
+          "psa": null
+        },
+        {
+          "weight": 13,
+          "radiusOfGyration": 2.71,
+          "differential": 0.005,
+          "psa": null
+        },
+        {
+          "weight": 14,
+          "radiusOfGyration": 2.69,
+          "differential": 0.006,
+          "psa": null
+        },
+        {
+          "weight": 15,
+          "radiusOfGyration": 2.69,
+          "differential": 0.006,
+          "psa": null
+        },
+        {
+          "weight": 16,
+          "radiusOfGyration": 2.68,
+          "differential": 0.006,
+          "psa": null
+        }
+      ],
+      "stats": null,
+      "source": "scrape",
+      "updatedAt": "2026-09-11"
+    },
+    {
+      "id": 36,
+      "sku": "BBPTXI",
+      "name": "MIX BLACK-SILVER",
+      "normalizedName": "Mix Black-Silver",
+      "url": "https://www.stormbowling.com/storm-mix-bowling-ball-black-silver",
+      "image": "https://assets.1.commercebuild.com/d186dcd2044cf54d8e48876defef4907/contents/BBPTXI/BBPTXI.png",
+      "imageLocal": "balls/mix-black-silver-bbptxi.png",
+      "image360Local": null,
+      "thumbLocal": "balls/thumbs/mix-black-silver-bbptxi.webp",
+      "smallThumbLocal": "balls/thumbs/small/mix-black-silver-bbptxi.webp",
+      "brand": "Storm",
+      "line": "Ice",
+      "core": "Light Weight",
+      "weightBlock": "3 Piece",
+      "factoryFinish": "3500 Grit Polished",
+      "durometer": {
+        "min": 82,
+        "max": 84
+      },
+      "symmetry": "Symmetrical",
+      "flarePotential": "Low",
+      "coverstock": "U1S Urethane Pearl",
+      "coverstockBase": "U1S Urethane",
+      "coverstockType": "Pearl",
+      "coverstockStrength": 1.71,
+      "color": "Black/Silver",
+      "releaseDate": "06/30/15",
+      "fragrance": "None",
+      "availableForSalesOrders": true,
+      "isAvailable": true,
+      "matchMaker": null,
+      "matchMakerApp": null,
+      "versionByWeight": [
+        {
+          "weight": 6,
+          "radiusOfGyration": 2.72,
+          "differential": 0.005,
+          "psa": null
+        },
+        {
+          "weight": 8,
+          "radiusOfGyration": 2.72,
+          "differential": 0.005,
+          "psa": null
+        },
+        {
+          "weight": 10,
+          "radiusOfGyration": 2.72,
+          "differential": 0.005,
+          "psa": null
+        },
+        {
+          "weight": 11,
+          "radiusOfGyration": 2.72,
+          "differential": 0.005,
+          "psa": null
+        },
+        {
+          "weight": 12,
+          "radiusOfGyration": 2.72,
+          "differential": 0.005,
+          "psa": null
+        },
+        {
+          "weight": 13,
+          "radiusOfGyration": 2.71,
+          "differential": 0.005,
+          "psa": null
+        },
+        {
+          "weight": 14,
+          "radiusOfGyration": 2.69,
+          "differential": 0.006,
+          "psa": null
+        },
+        {
+          "weight": 15,
+          "radiusOfGyration": 2.69,
+          "differential": 0.006,
+          "psa": null
+        },
+        {
+          "weight": 16,
+          "radiusOfGyration": 2.68,
+          "differential": 0.006,
+          "psa": null
+        }
+      ],
+      "stats": null,
+      "source": "scrape",
+      "updatedAt": "2026-09-11"
+    },
+    {
+      "id": 37,
+      "sku": "BBPVBP",
+      "name": "MIX BLACK-PURPLE-PINK",
+      "normalizedName": "Mix Black-Purple-Pink",
+      "url": "https://www.stormbowling.com/storm-mix-bowling-ball-black-purple-pink",
+      "image": "https://assets.1.commercebuild.com/d186dcd2044cf54d8e48876defef4907/contents/BBPVBP/BBPVBP.png",
+      "imageLocal": "balls/mix-black-purple-pink-bbpvbp.png",
+      "image360Local": null,
+      "thumbLocal": "balls/thumbs/mix-black-purple-pink-bbpvbp.webp",
+      "smallThumbLocal": "balls/thumbs/small/mix-black-purple-pink-bbpvbp.webp",
+      "brand": "Storm",
+      "line": "Ice",
+      "core": "Light Weight",
+      "weightBlock": "3 Piece",
+      "factoryFinish": "3500 Grit Polished",
+      "durometer": {
+        "min": 82,
+        "max": 84
+      },
+      "symmetry": "Symmetrical",
+      "flarePotential": "Low",
+      "coverstock": "U1S Urethane Pearl",
+      "coverstockBase": "U1S Urethane",
+      "coverstockType": "Pearl",
+      "coverstockStrength": 1.71,
+      "color": "Black/Purple/Pink",
+      "releaseDate": "07/28/23",
+      "fragrance": "None",
+      "availableForSalesOrders": true,
+      "isAvailable": true,
+      "matchMaker": null,
+      "matchMakerApp": null,
+      "versionByWeight": [
+        {
+          "weight": 6,
+          "radiusOfGyration": 2.72,
+          "differential": 0.005,
+          "psa": null
+        },
+        {
+          "weight": 8,
+          "radiusOfGyration": 2.72,
+          "differential": 0.005,
+          "psa": null
+        },
+        {
+          "weight": 10,
+          "radiusOfGyration": 2.72,
+          "differential": 0.005,
+          "psa": null
+        },
+        {
+          "weight": 11,
+          "radiusOfGyration": 2.72,
+          "differential": 0.005,
+          "psa": null
+        },
+        {
+          "weight": 12,
+          "radiusOfGyration": 2.72,
+          "differential": 0.005,
+          "psa": null
+        },
+        {
+          "weight": 13,
+          "radiusOfGyration": 2.71,
+          "differential": 0.005,
+          "psa": null
+        },
+        {
+          "weight": 14,
+          "radiusOfGyration": 2.69,
+          "differential": 0.006,
+          "psa": null
+        },
+        {
+          "weight": 15,
+          "radiusOfGyration": 2.69,
+          "differential": 0.006,
+          "psa": null
+        },
+        {
+          "weight": 16,
+          "radiusOfGyration": 2.68,
+          "differential": 0.006,
+          "psa": null
+        }
+      ],
+      "stats": null,
+      "source": "scrape",
+      "updatedAt": "2026-09-11"
+    },
+    {
+      "id": 38,
+      "sku": "BBPVYC",
+      "name": "MIX LIME-ROYAL-CUSTARD",
+      "normalizedName": "Mix Lime-Royal-Custard",
+      "url": "https://www.stormbowling.com/storm-mix-bowling-ball-lime-royal-custard",
+      "image": "https://assets.1.commercebuild.com/d186dcd2044cf54d8e48876defef4907/contents/BBPVYC/BBPVYC.png",
+      "imageLocal": "balls/mix-lime-royal-custard-bbpvyc.png",
+      "image360Local": null,
+      "thumbLocal": "balls/thumbs/mix-lime-royal-custard-bbpvyc.webp",
+      "smallThumbLocal": "balls/thumbs/small/mix-lime-royal-custard-bbpvyc.webp",
+      "brand": "Storm",
+      "line": "Ice",
+      "core": "Light Weight",
+      "weightBlock": "3 Piece",
+      "factoryFinish": "3500 Grit Polished",
+      "durometer": {
+        "min": 82,
+        "max": 84
+      },
+      "symmetry": "Symmetrical",
+      "flarePotential": "Low",
+      "coverstock": "U1S Urethane Pearl",
+      "coverstockBase": "U1S Urethane",
+      "coverstockType": "Pearl",
+      "coverstockStrength": 1.71,
+      "color": "Lime/Royal/Custard",
+      "releaseDate": "07/28/23",
+      "fragrance": "None",
+      "availableForSalesOrders": true,
+      "isAvailable": true,
+      "matchMaker": null,
+      "matchMakerApp": null,
+      "versionByWeight": [
+        {
+          "weight": 6,
+          "radiusOfGyration": 2.72,
+          "differential": 0.005,
+          "psa": null
+        },
+        {
+          "weight": 8,
+          "radiusOfGyration": 2.72,
+          "differential": 0.005,
+          "psa": null
+        },
+        {
+          "weight": 10,
+          "radiusOfGyration": 2.72,
+          "differential": 0.005,
+          "psa": null
+        },
+        {
+          "weight": 11,
+          "radiusOfGyration": 2.72,
+          "differential": 0.005,
+          "psa": null
+        },
+        {
+          "weight": 12,
+          "radiusOfGyration": 2.72,
+          "differential": 0.005,
+          "psa": null
+        },
+        {
+          "weight": 13,
+          "radiusOfGyration": 2.71,
+          "differential": 0.005,
+          "psa": null
+        },
+        {
+          "weight": 14,
+          "radiusOfGyration": 2.69,
+          "differential": 0.006,
+          "psa": null
+        },
+        {
+          "weight": 15,
+          "radiusOfGyration": 2.69,
+          "differential": 0.006,
+          "psa": null
+        },
+        {
+          "weight": 16,
+          "radiusOfGyration": 2.68,
+          "differential": 0.006,
+          "psa": null
+        }
+      ],
+      "stats": null,
+      "source": "scrape",
+      "updatedAt": "2026-09-11"
+    },
+    {
+      "id": 39,
+      "sku": "BBPVXP",
+      "name": "MIX PURPLE-BLUE-WHITE",
+      "normalizedName": "Mix Purple-Blue-White",
+      "url": "https://www.stormbowling.com/storm-mix-bowling-ball-purple-blue-white",
+      "image": "https://assets.1.commercebuild.com/d186dcd2044cf54d8e48876defef4907/contents/BBPVXP/BBPVXP.png",
+      "imageLocal": "balls/mix-purple-blue-white-bbpvxp.png",
+      "image360Local": null,
+      "thumbLocal": "balls/thumbs/mix-purple-blue-white-bbpvxp.webp",
+      "smallThumbLocal": "balls/thumbs/small/mix-purple-blue-white-bbpvxp.webp",
+      "brand": "Storm",
+      "line": "Ice",
+      "core": "Light Weight",
+      "weightBlock": "3 Piece",
+      "factoryFinish": "3500 Grit Polished",
+      "durometer": {
+        "min": 82,
+        "max": 84
+      },
+      "symmetry": "Symmetrical",
+      "flarePotential": "Low",
+      "coverstock": "U1S Urethane Pearl",
+      "coverstockBase": "U1S Urethane",
+      "coverstockType": "Pearl",
+      "coverstockStrength": 1.71,
+      "color": "Purple/Blue/White",
+      "releaseDate": "08/02/22",
+      "fragrance": "None",
+      "availableForSalesOrders": true,
+      "isAvailable": true,
+      "matchMaker": null,
+      "matchMakerApp": null,
+      "versionByWeight": [
+        {
+          "weight": 6,
+          "radiusOfGyration": 2.72,
+          "differential": 0.005,
+          "psa": null
+        },
+        {
+          "weight": 8,
+          "radiusOfGyration": 2.72,
+          "differential": 0.005,
+          "psa": null
+        },
+        {
+          "weight": 10,
+          "radiusOfGyration": 2.72,
+          "differential": 0.005,
+          "psa": null
+        },
+        {
+          "weight": 11,
+          "radiusOfGyration": 2.72,
+          "differential": 0.005,
+          "psa": null
+        },
+        {
+          "weight": 12,
+          "radiusOfGyration": 2.72,
+          "differential": 0.005,
+          "psa": null
+        },
+        {
+          "weight": 13,
+          "radiusOfGyration": 2.71,
+          "differential": 0.005,
+          "psa": null
+        },
+        {
+          "weight": 14,
+          "radiusOfGyration": 2.69,
+          "differential": 0.006,
+          "psa": null
+        },
+        {
+          "weight": 15,
+          "radiusOfGyration": 2.69,
+          "differential": 0.006,
+          "psa": null
+        },
+        {
+          "weight": 16,
+          "radiusOfGyration": 2.68,
+          "differential": 0.006,
+          "psa": null
+        }
+      ],
+      "stats": null,
+      "source": "scrape",
+      "updatedAt": "2026-09-11"
+    },
+    {
+      "id": 40,
+      "sku": "BBPVXJ",
+      "name": "MIX PURPLE-JADE-STEEL",
+      "normalizedName": "Mix Purple-Jade-Steel",
+      "url": "https://www.stormbowling.com/storm-mix-bowling-ball-purple-jade-steel",
+      "image": "https://assets.1.commercebuild.com/d186dcd2044cf54d8e48876defef4907/contents/BBPVXJ/BBPVXJ.png",
+      "imageLocal": "balls/mix-purple-jade-steel-bbpvxj.png",
+      "image360Local": null,
+      "thumbLocal": "balls/thumbs/mix-purple-jade-steel-bbpvxj.webp",
+      "smallThumbLocal": "balls/thumbs/small/mix-purple-jade-steel-bbpvxj.webp",
+      "brand": "Storm",
+      "line": "Ice",
+      "core": "Light Weight",
+      "weightBlock": "3 Piece",
+      "factoryFinish": "3500 Grit Polished",
+      "durometer": {
+        "min": 82,
+        "max": 84
+      },
+      "symmetry": "Symmetrical",
+      "flarePotential": "Low",
+      "coverstock": "U1S Urethane Pearl",
+      "coverstockBase": "U1S Urethane",
+      "coverstockType": "Pearl",
+      "coverstockStrength": 1.71,
+      "color": "Purple/Jade/Steel",
+      "releaseDate": "08/02/22",
+      "fragrance": "None",
+      "availableForSalesOrders": true,
+      "isAvailable": true,
+      "matchMaker": null,
+      "matchMakerApp": null,
+      "versionByWeight": [
+        {
+          "weight": 6,
+          "radiusOfGyration": 2.72,
+          "differential": 0.005,
+          "psa": null
+        },
+        {
+          "weight": 8,
+          "radiusOfGyration": 2.72,
+          "differential": 0.005,
+          "psa": null
+        },
+        {
+          "weight": 10,
+          "radiusOfGyration": 2.72,
+          "differential": 0.005,
+          "psa": null
+        },
+        {
+          "weight": 11,
+          "radiusOfGyration": 2.72,
+          "differential": 0.005,
+          "psa": null
+        },
+        {
+          "weight": 12,
+          "radiusOfGyration": 2.72,
+          "differential": 0.005,
+          "psa": null
+        },
+        {
+          "weight": 13,
+          "radiusOfGyration": 2.71,
+          "differential": 0.005,
+          "psa": null
+        },
+        {
+          "weight": 14,
+          "radiusOfGyration": 2.69,
+          "differential": 0.006,
+          "psa": null
+        },
+        {
+          "weight": 15,
+          "radiusOfGyration": 2.69,
+          "differential": 0.006,
+          "psa": null
+        },
+        {
+          "weight": 16,
+          "radiusOfGyration": 2.68,
+          "differential": 0.006,
+          "psa": null
+        }
+      ],
+      "stats": null,
+      "source": "scrape",
+      "updatedAt": "2026-09-11"
+    },
+    {
+      "id": 41,
+      "sku": "BBPVRW",
+      "name": "MIX RED/WHITE/NAVY",
+      "normalizedName": "Mix Red/White/Navy",
+      "url": "https://www.stormbowling.com/storm-mix-bowling-ball-red-white-navy",
+      "image": "https://assets.1.commercebuild.com/d186dcd2044cf54d8e48876defef4907/contents/BBPVRW/BBPVRW.png",
+      "imageLocal": "balls/mix-red-white-navy-bbpvrw.png",
+      "image360Local": null,
+      "thumbLocal": "balls/thumbs/mix-red-white-navy-bbpvrw.webp",
+      "smallThumbLocal": "balls/thumbs/small/mix-red-white-navy-bbpvrw.webp",
+      "brand": "Storm",
+      "line": "Ice",
+      "core": "Light Weight",
+      "weightBlock": "3 Piece",
+      "factoryFinish": "3500 Grit Polished",
+      "durometer": {
+        "min": 82,
+        "max": 84
+      },
+      "symmetry": "Symmetrical",
+      "flarePotential": "Low",
+      "coverstock": "U1S Urethane Pearl",
+      "coverstockBase": "U1S Urethane",
+      "coverstockType": "Pearl",
+      "coverstockStrength": 1.71,
+      "color": "Red/White/Navy",
+      "releaseDate": null,
+      "fragrance": "None",
+      "availableForSalesOrders": true,
+      "isAvailable": true,
+      "matchMaker": null,
+      "matchMakerApp": null,
+      "versionByWeight": [
+        {
+          "weight": 6,
+          "radiusOfGyration": 2.72,
+          "differential": 0.005,
+          "psa": null
+        },
+        {
+          "weight": 8,
+          "radiusOfGyration": 2.72,
+          "differential": 0.005,
+          "psa": null
+        },
+        {
+          "weight": 10,
+          "radiusOfGyration": 2.72,
+          "differential": 0.005,
+          "psa": null
+        },
+        {
+          "weight": 11,
+          "radiusOfGyration": 2.72,
+          "differential": 0.005,
+          "psa": null
+        },
+        {
+          "weight": 15,
+          "radiusOfGyration": 2.69,
+          "differential": 0.006,
+          "psa": null
+        },
+        {
+          "weight": 16,
+          "radiusOfGyration": 2.68,
+          "differential": 0.006,
+          "psa": null
+        }
+      ],
+      "stats": null,
+      "source": "scrape",
+      "updatedAt": "2026-09-11"
+    },
+    {
+      "id": 42,
+      "sku": "BBMRLT",
+      "name": "Transform Pearl",
+      "normalizedName": "Transform Pearl",
+      "url": "https://www.stormbowling.com/roto-grip-transform-pearl-bowling-ball",
+      "image": "https://assets.1.commercebuild.com/d186dcd2044cf54d8e48876defef4907/contents/BBMRLT/Transform_Pearl.png?v=01c6a051",
+      "imageLocal": "balls/transform-pearl-bbmrlt.png",
+      "image360Local": "balls/transform-pearl-bbmrlt_360.png",
+      "thumbLocal": "balls/thumbs/transform-pearl-bbmrlt.webp",
+      "smallThumbLocal": "balls/thumbs/small/transform-pearl-bbmrlt.webp",
+      "brand": "Roto Grip",
+      "line": "HP5",
+      "core": "Light Weight",
+      "weightBlock": "Morph Wing",
+      "factoryFinish": "Power Edge",
+      "durometer": {
+        "min": 73,
+        "max": 75
+      },
+      "symmetry": "Asymmetrical",
+      "flarePotential": "High",
+      "coverstock": "Microtrax Pearl",
+      "coverstockBase": "Microtrax",
+      "coverstockType": "Pearl",
+      "coverstockStrength": null,
+      "color": "Red/Cherry/Shadow",
+      "releaseDate": "07/10/26",
+      "fragrance": null,
+      "availableForSalesOrders": true,
+      "isAvailable": true,
+      "matchMaker": null,
+      "matchMakerApp": null,
+      "versionByWeight": [
+        {
+          "weight": 12,
+          "radiusOfGyration": 2.59,
+          "differential": 0.029,
+          "psa": 0.008
+        },
+        {
+          "weight": 13,
+          "radiusOfGyration": 2.57,
+          "differential": 0.032,
+          "psa": 0.01
+        },
+        {
+          "weight": 14,
+          "radiusOfGyration": 2.53,
+          "differential": 0.053,
+          "psa": 0.013
+        },
+        {
+          "weight": 15,
+          "radiusOfGyration": 2.51,
+          "differential": 0.051,
+          "psa": 0.015
+        },
+        {
+          "weight": 16,
+          "radiusOfGyration": 2.5,
+          "differential": 0.05,
+          "psa": 0.015
+        }
+      ],
+      "stats": {
+        "flarePotential": {
+          "min": 10,
+          "max": 10,
+          "middle": 10.0
+        },
+        "ballShape": {
+          "min": 8,
+          "max": 9,
+          "middle": 8.5
+        },
+        "hookLength": {
+          "min": 8,
+          "max": 9,
+          "middle": 8.5
+        },
+        "oilVolume": {
+          "min": 7,
+          "max": 9,
+          "middle": 8.0
+        },
+        "patternLength": {
+          "min": 7,
+          "max": 10,
+          "middle": 8.5
+        },
+        "laneCondition": {
+          "min": 5,
+          "max": 8,
+          "middle": 6.5
+        }
+      },
+      "source": "scrape",
+      "updatedAt": "2026-09-11"
+    },
+    {
+      "id": 43,
+      "sku": "BBMRLL",
+      "name": "TRANSFORMER",
+      "normalizedName": "Transformer",
+      "url": "https://www.stormbowling.com/roto-grip-transformer-bowling-ball",
+      "image": "https://assets.1.commercebuild.com/d186dcd2044cf54d8e48876defef4907/contents/BBMRLL/IMG_2463.png",
+      "imageLocal": "balls/transformer-bbmrll.png",
+      "image360Local": "balls/transformer-bbmrll_360.png",
+      "thumbLocal": "balls/thumbs/transformer-bbmrll.webp",
+      "smallThumbLocal": "balls/thumbs/small/transformer-bbmrll.webp",
+      "brand": "Roto Grip",
+      "line": "HP5",
+      "core": "Light Weight",
+      "weightBlock": "Morph Wing",
+      "factoryFinish": "4000 Grit",
+      "durometer": {
+        "min": 73,
+        "max": 75
+      },
+      "symmetry": "Asymmetrical",
+      "flarePotential": "High",
+      "coverstock": "VR1 Solid",
+      "coverstockBase": "VR1",
+      "coverstockType": "Solid",
+      "coverstockStrength": null,
+      "color": "Indigo/Violet/Slate",
+      "releaseDate": "01/23/26",
+      "fragrance": null,
+      "availableForSalesOrders": true,
+      "isAvailable": true,
+      "matchMaker": null,
+      "matchMakerApp": null,
+      "versionByWeight": [
+        {
+          "weight": 12,
+          "radiusOfGyration": 2.59,
+          "differential": 0.029,
+          "psa": 0.008
+        },
+        {
+          "weight": 13,
+          "radiusOfGyration": 2.57,
+          "differential": 0.032,
+          "psa": 0.01
+        },
+        {
+          "weight": 14,
+          "radiusOfGyration": 2.53,
+          "differential": 0.053,
+          "psa": 0.013
+        },
+        {
+          "weight": 15,
+          "radiusOfGyration": 2.51,
+          "differential": 0.051,
+          "psa": 0.015
+        },
+        {
+          "weight": 16,
+          "radiusOfGyration": 2.5,
+          "differential": 0.05,
+          "psa": 0.015
+        }
+      ],
+      "stats": {
+        "flarePotential": {
+          "min": 10,
+          "max": 10,
+          "middle": 10.0
+        },
+        "ballShape": {
+          "min": 7,
+          "max": 8,
+          "middle": 7.5
+        },
+        "hookLength": {
+          "min": 6,
+          "max": 7,
+          "middle": 6.5
+        },
+        "oilVolume": {
+          "min": 6,
+          "max": 9,
+          "middle": 7.5
+        },
+        "patternLength": {
+          "min": 6,
+          "max": 9,
+          "middle": 7.5
+        },
+        "laneCondition": {
+          "min": 2,
+          "max": 5,
+          "middle": 3.5
+        }
+      },
+      "source": "scrape",
+      "updatedAt": "2026-09-11"
+    },
+    {
+      "id": 44,
+      "sku": "BBMRYR",
+      "name": "RST HYPERDRIVE PEARL",
+      "normalizedName": "RST Hyperdrive Pearl",
+      "url": "https://www.stormbowling.com/roto-grip-rst-hyperdrive-pearl-bowling-ball",
+      "image": "https://assets.1.commercebuild.com/d186dcd2044cf54d8e48876defef4907/contents/BBMRYR/BBMRYR@1.png",
+      "imageLocal": "balls/rst-hyperdrive-pearl-bbmryr.png",
+      "image360Local": "balls/rst-hyperdrive-pearl-bbmryr_360.png",
+      "thumbLocal": "balls/thumbs/rst-hyperdrive-pearl-bbmryr.webp",
+      "smallThumbLocal": "balls/thumbs/small/rst-hyperdrive-pearl-bbmryr.webp",
+      "brand": "Roto Grip",
+      "line": "HP4",
+      "core": "AI",
+      "weightBlock": "RST AI",
+      "factoryFinish": "Power Edge",
+      "durometer": {
+        "min": 73,
+        "max": 75
+      },
+      "symmetry": "Asymmetrical",
+      "flarePotential": "High",
+      "coverstock": "U-R1 Pearl",
+      "coverstockBase": "U-R1",
+      "coverstockType": "Pearl",
+      "coverstockStrength": null,
+      "color": "Space Blue/Deep Purple",
+      "releaseDate": "09/19/25",
+      "fragrance": null,
+      "availableForSalesOrders": true,
+      "isAvailable": true,
+      "matchMaker": null,
+      "matchMakerApp": null,
+      "versionByWeight": [
+        {
+          "weight": 12,
+          "radiusOfGyration": 2.58,
+          "differential": 0.031,
+          "psa": 0.009
+        },
+        {
+          "weight": 13,
+          "radiusOfGyration": 2.56,
+          "differential": 0.034,
+          "psa": 0.011
+        },
+        {
+          "weight": 14,
+          "radiusOfGyration": 2.54,
+          "differential": 0.055,
+          "psa": 0.017
+        },
+        {
+          "weight": 15,
+          "radiusOfGyration": 2.52,
+          "differential": 0.055,
+          "psa": 0.017
+        },
+        {
+          "weight": 16,
+          "radiusOfGyration": 2.51,
+          "differential": 0.051,
+          "psa": 0.016
+        }
+      ],
+      "stats": {
+        "flarePotential": {
+          "min": 10,
+          "max": 10,
+          "middle": 10.0
+        },
+        "ballShape": {
+          "min": 9,
+          "max": 9,
+          "middle": 9.0
+        },
+        "hookLength": {
+          "min": 8,
+          "max": 10,
+          "middle": 9.0
+        },
+        "oilVolume": {
+          "min": 6,
+          "max": 8,
+          "middle": 7.0
+        },
+        "patternLength": {
+          "min": 7,
+          "max": 9,
+          "middle": 8.0
+        },
+        "laneCondition": {
+          "min": 5,
+          "max": 7,
+          "middle": 6.0
+        }
+      },
+      "source": "scrape",
+      "updatedAt": "2026-10-01"
+    },
+    {
+      "id": 45,
+      "sku": "BBMRWG",
+      "name": "Wicked Gremlin",
+      "normalizedName": "Wicked Gremlin",
+      "url": "https://www.stormbowling.com/roto-grip-wicked-gremlin-bowling-ball",
+      "image": "https://assets.1.commercebuild.com/d186dcd2044cf54d8e48876defef4907/contents/BBMRWG/Wicked_Gremlin_rv3_shadow-small.png?v=d89e8f9d",
+      "imageLocal": "balls/wicked-gremlin-bbmrwg.png",
+      "image360Local": "balls/wicked-gremlin-bbmrwg_360.png",
+      "thumbLocal": "balls/thumbs/wicked-gremlin-bbmrwg.webp",
+      "smallThumbLocal": "balls/thumbs/small/wicked-gremlin-bbmrwg.webp",
+      "brand": "Roto Grip",
+      "line": "HP3",
+      "core": "Light Weight",
+      "weightBlock": "Rondure MaxD",
+      "factoryFinish": "2000 Grit",
+      "durometer": {
+        "min": 73,
+        "max": 75
+      },
+      "symmetry": "Asymmetrical",
+      "flarePotential": "High",
+      "coverstock": "GR1 Solid",
+      "coverstockBase": "GR1",
+      "coverstockType": "Solid",
+      "coverstockStrength": null,
+      "color": "Citrine/Red/Purple",
+      "releaseDate": "08/07/26",
+      "fragrance": null,
+      "availableForSalesOrders": true,
+      "isAvailable": true,
+      "matchMaker": null,
+      "matchMakerApp": null,
+      "versionByWeight": [
+        {
+          "weight": 12,
+          "radiusOfGyration": 2.59,
+          "differential": 0.029,
+          "psa": 0.008
+        },
+        {
+          "weight": 13,
+          "radiusOfGyration": 2.57,
+          "differential": 0.032,
+          "psa": 0.01
+        },
+        {
+          "weight": 14,
+          "radiusOfGyration": 2.54,
+          "differential": 0.058,
+          "psa": 0.008
+        },
+        {
+          "weight": 15,
+          "radiusOfGyration": 2.5,
+          "differential": 0.058,
+          "psa": 0.01
+        },
+        {
+          "weight": 16,
+          "radiusOfGyration": 2.5,
+          "differential": 0.056,
+          "psa": 0.011
+        }
+      ],
+      "stats": {
+        "flarePotential": {
+          "min": 11,
+          "max": 11,
+          "middle": 11.0
+        },
+        "ballShape": {
+          "min": 1,
+          "max": 3,
+          "middle": 2.0
+        },
+        "hookLength": {
+          "min": 3,
+          "max": 5,
+          "middle": 4.0
+        },
+        "oilVolume": {
+          "min": 8,
+          "max": 10,
+          "middle": 9.0
+        },
+        "patternLength": {
+          "min": 6,
+          "max": 9,
+          "middle": 7.5
+        },
+        "laneCondition": {
+          "min": 1,
+          "max": 4,
+          "middle": 2.5
+        }
+      },
+      "source": "scrape",
+      "updatedAt": "2026-09-11"
+    },
+    {
+      "id": 46,
+      "sku": "BBMRGV",
+      "name": "Gremlin Tour-X",
+      "normalizedName": "Gremlin Tour-X",
+      "url": "https://www.stormbowling.com/roto-grip-gremlin-tour-x-bowling-ball",
+      "image": "https://assets.1.commercebuild.com/d186dcd2044cf54d8e48876defef4907/contents/BBMRGV/BBMRGV.png",
+      "imageLocal": "balls/gremlin-tour-x-bbmrgv.png",
+      "image360Local": "balls/gremlin-tour-x-bbmrgv_360.png",
+      "thumbLocal": "balls/thumbs/gremlin-tour-x-bbmrgv.webp",
+      "smallThumbLocal": "balls/thumbs/small/gremlin-tour-x-bbmrgv.webp",
+      "brand": "Roto Grip",
+      "line": "HP3",
+      "core": "Light Weight",
+      "weightBlock": "Rondure TourX",
+      "factoryFinish": "4000 Grit",
+      "durometer": {
+        "min": 73,
+        "max": 75
+      },
+      "symmetry": "Asymmetrical",
+      "flarePotential": "Medium",
+      "coverstock": "VR1 Hybrid",
+      "coverstockBase": "VR1",
+      "coverstockType": "Hybrid",
+      "coverstockStrength": null,
+      "color": "Smoke/Velvet/Ink",
+      "releaseDate": "03/13/26",
+      "fragrance": null,
+      "availableForSalesOrders": true,
+      "isAvailable": true,
+      "matchMaker": null,
+      "matchMakerApp": null,
+      "versionByWeight": [
+        {
+          "weight": 12,
+          "radiusOfGyration": 2.59,
+          "differential": 0.029,
+          "psa": 0.008
+        },
+        {
+          "weight": 13,
+          "radiusOfGyration": 2.57,
+          "differential": 0.032,
+          "psa": 0.01
+        },
+        {
+          "weight": 14,
+          "radiusOfGyration": 2.52,
+          "differential": 0.034,
+          "psa": 0.01
+        },
+        {
+          "weight": 15,
+          "radiusOfGyration": 2.48,
+          "differential": 0.034,
+          "psa": 0.011
+        },
+        {
+          "weight": 16,
+          "radiusOfGyration": 2.48,
+          "differential": 0.032,
+          "psa": 0.01
+        }
+      ],
+      "stats": {
+        "flarePotential": {
+          "min": 6,
+          "max": 6,
+          "middle": 6.0
+        },
+        "ballShape": {
+          "min": 2,
+          "max": 4,
+          "middle": 3.0
+        },
+        "hookLength": {
+          "min": 3,
+          "max": 5,
+          "middle": 4.0
+        },
+        "oilVolume": {
+          "min": 3,
+          "max": 7,
+          "middle": 5.0
+        },
+        "patternLength": {
+          "min": 4,
+          "max": 8,
+          "middle": 6.0
+        },
+        "laneCondition": {
+          "min": 2,
+          "max": 6,
+          "middle": 4.0
+        }
+      },
+      "source": "scrape",
+      "updatedAt": "2026-09-11"
+    },
+    {
+      "id": 47,
+      "sku": "BBMRGX",
+      "name": "GREMLIN",
+      "normalizedName": "Gremlin",
+      "url": "https://www.stormbowling.com/roto-grip-gremlin-bowling-ball",
+      "image": "https://assets.1.commercebuild.com/d186dcd2044cf54d8e48876defef4907/contents/BBMRGX/Gremlin.png",
+      "imageLocal": "balls/gremlin-bbmrgx.png",
+      "image360Local": "balls/gremlin-bbmrgx_360.png",
+      "thumbLocal": "balls/thumbs/gremlin-bbmrgx.webp",
+      "smallThumbLocal": "balls/thumbs/small/gremlin-bbmrgx.webp",
+      "brand": "Roto Grip",
+      "line": "HP3",
+      "core": "Light Weight",
+      "weightBlock": "Rondure MaxD",
+      "factoryFinish": "Power Edge",
+      "durometer": {
+        "min": 73,
+        "max": 75
+      },
+      "symmetry": "Asymmetrical",
+      "flarePotential": "High",
+      "coverstock": "V-R1 Pearl",
+      "coverstockBase": "V-R1",
+      "coverstockType": "Pearl",
+      "coverstockStrength": null,
+      "color": "Plum/Raisen/Tanzanite",
+      "releaseDate": "07/18/25",
+      "fragrance": null,
+      "availableForSalesOrders": true,
+      "isAvailable": true,
+      "matchMaker": "46",
+      "matchMakerApp": true,
+      "versionByWeight": [
+        {
+          "weight": 12,
+          "radiusOfGyration": 2.59,
+          "differential": 0.029,
+          "psa": 0.011
+        },
+        {
+          "weight": 13,
+          "radiusOfGyration": 2.57,
+          "differential": 0.032,
+          "psa": 0.01
+        },
+        {
+          "weight": 14,
+          "radiusOfGyration": 2.54,
+          "differential": 0.058,
+          "psa": 0.008
+        },
+        {
+          "weight": 15,
+          "radiusOfGyration": 2.5,
+          "differential": 0.058,
+          "psa": 0.01
+        },
+        {
+          "weight": 16,
+          "radiusOfGyration": 2.5,
+          "differential": 0.056,
+          "psa": 0.008
+        }
+      ],
+      "stats": {
+        "flarePotential": {
+          "min": 11,
+          "max": 11,
+          "middle": 11.0
+        },
+        "ballShape": {
+          "min": 7,
+          "max": 9,
+          "middle": 8.0
+        },
+        "hookLength": {
+          "min": 8,
+          "max": 10,
+          "middle": 9.0
+        },
+        "oilVolume": {
+          "min": 5,
+          "max": 9,
+          "middle": 7.0
+        },
+        "patternLength": {
+          "min": 5,
+          "max": 9,
+          "middle": 7.0
+        },
+        "laneCondition": {
+          "min": 5,
+          "max": 9,
+          "middle": 7.0
+        }
+      },
+      "source": "scrape",
+      "updatedAt": "2026-09-11"
+    },
+    {
+      "id": 48,
+      "sku": "BBMRYY",
+      "name": "hyped UP!",
+      "normalizedName": "Hyped Up!",
+      "url": "https://www.stormbowling.com/roto-grip-hyped-up-bowling-ball",
+      "image": "https://assets.1.commercebuild.com/d186dcd2044cf54d8e48876defef4907/contents/BBMRYY/Hyped_Up_.png?v=e274cc5e",
+      "imageLocal": "balls/hyped-up!-bbmryy.png",
+      "image360Local": "balls/hyped-up!-bbmryy_360.png",
+      "thumbLocal": "balls/thumbs/hyped-up!-bbmryy.webp",
+      "smallThumbLocal": "balls/thumbs/small/hyped-up!-bbmryy.webp",
+      "brand": "Roto Grip",
+      "line": "HP2",
+      "core": "Light Weight",
+      "weightBlock": "Hyped Up",
+      "factoryFinish": "4000 Grit",
+      "durometer": {
+        "min": 73,
+        "max": 75
+      },
+      "symmetry": "Symmetrical",
+      "flarePotential": "Medium-High",
+      "coverstock": "VR1 Hybrid",
+      "coverstockBase": "VR1",
+      "coverstockType": "Hybrid",
+      "coverstockStrength": null,
+      "color": "Black/Black Pearl",
+      "releaseDate": "07/10/26",
+      "fragrance": null,
+      "availableForSalesOrders": true,
+      "isAvailable": true,
+      "matchMaker": null,
+      "matchMakerApp": null,
+      "versionByWeight": [
+        {
+          "weight": 10,
+          "radiusOfGyration": 2.77,
+          "differential": 0.015,
+          "psa": null
+        },
+        {
+          "weight": 11,
+          "radiusOfGyration": 2.73,
+          "differential": 0.012,
+          "psa": null
+        },
+        {
+          "weight": 12,
+          "radiusOfGyration": 2.65,
+          "differential": 0.035,
+          "psa": null
+        },
+        {
+          "weight": 13,
+          "radiusOfGyration": 2.59,
+          "differential": 0.045,
+          "psa": null
+        },
+        {
+          "weight": 14,
+          "radiusOfGyration": 2.51,
+          "differential": 0.042,
+          "psa": null
+        },
+        {
+          "weight": 15,
+          "radiusOfGyration": 2.5,
+          "differential": 0.042,
+          "psa": null
+        },
+        {
+          "weight": 16,
+          "radiusOfGyration": 2.49,
+          "differential": 0.043,
+          "psa": null
+        }
+      ],
+      "stats": {
+        "flarePotential": {
+          "min": 8,
+          "max": 8,
+          "middle": 8.0
+        },
+        "ballShape": {
+          "min": 3,
+          "max": 4,
+          "middle": 3.5
+        },
+        "hookLength": {
+          "min": 4,
+          "max": 6,
+          "middle": 5.0
+        },
+        "oilVolume": {
+          "min": 5,
+          "max": 7,
+          "middle": 6.0
+        },
+        "patternLength": {
+          "min": 3,
+          "max": 6,
+          "middle": 4.5
+        },
+        "laneCondition": {
+          "min": 3,
+          "max": 5,
+          "middle": 4.0
+        }
+      },
+      "source": "scrape",
+      "updatedAt": "2026-09-11"
+    },
+    {
+      "id": 49,
+      "sku": "BBMRVU",
+      "name": "Hustle VP",
+      "normalizedName": "Hustle VP",
+      "url": "https://www.stormbowling.com/roto-grip-hustle-vp-bowling-ball",
+      "image": "https://assets.1.commercebuild.com/d186dcd2044cf54d8e48876defef4907/contents/BBMRVU/BBMRVU.png",
+      "imageLocal": "balls/hustle-vp-bbmrvu.png",
+      "image360Local": "balls/hustle-vp-bbmrvu_360.png",
+      "thumbLocal": "balls/thumbs/hustle-vp-bbmrvu.webp",
+      "smallThumbLocal": "balls/thumbs/small/hustle-vp-bbmrvu.webp",
+      "brand": "Roto Grip",
+      "line": "HP1",
+      "core": "Light Weight",
+      "weightBlock": "Hustle",
+      "factoryFinish": "Power Edge",
+      "durometer": {
+        "min": 73,
+        "max": 75
+      },
+      "symmetry": "Symmetrical",
+      "flarePotential": "Medium-Low",
+      "coverstock": "VTC Pearl",
+      "coverstockBase": "VTC",
+      "coverstockType": "Pearl",
+      "coverstockStrength": null,
+      "color": "Vanilla/Popsicle",
+      "releaseDate": "06/26/26",
+      "fragrance": null,
+      "availableForSalesOrders": true,
+      "isAvailable": true,
+      "matchMaker": null,
+      "matchMakerApp": null,
+      "versionByWeight": [
+        {
+          "weight": 10,
+          "radiusOfGyration": 2.77,
+          "differential": 0.015,
+          "psa": null
+        },
+        {
+          "weight": 11,
+          "radiusOfGyration": 2.73,
+          "differential": 0.012,
+          "psa": null
+        },
+        {
+          "weight": 12,
+          "radiusOfGyration": 2.65,
+          "differential": 0.011,
+          "psa": null
+        },
+        {
+          "weight": 13,
+          "radiusOfGyration": 2.63,
+          "differential": 0.009,
+          "psa": null
+        },
+        {
+          "weight": 14,
+          "radiusOfGyration": 2.55,
+          "differential": 0.03,
+          "psa": null
+        },
+        {
+          "weight": 15,
+          "radiusOfGyration": 2.53,
+          "differential": 0.03,
+          "psa": null
+        },
+        {
+          "weight": 16,
+          "radiusOfGyration": 2.53,
+          "differential": 0.03,
+          "psa": null
+        }
+      ],
+      "stats": null,
+      "source": "scrape",
+      "updatedAt": "2026-10-01"
+    },
+    {
+      "id": 50,
+      "sku": "BBMRSJ",
+      "name": "Hustle SOS",
+      "normalizedName": "Hustle SOS",
+      "url": "https://www.stormbowling.com/roto-grip-hustle-sos-bowling-ball",
+      "image": "https://assets.1.commercebuild.com/d186dcd2044cf54d8e48876defef4907/contents/BBMRSJ/BBMRSJ.png",
+      "imageLocal": "balls/hustle-sos-bbmrsj.png",
+      "image360Local": "balls/hustle-sos-bbmrsj_360.png",
+      "thumbLocal": "balls/thumbs/hustle-sos-bbmrsj.webp",
+      "smallThumbLocal": "balls/thumbs/small/hustle-sos-bbmrsj.webp",
+      "brand": "Roto Grip",
+      "line": "HP1",
+      "core": "Light Weight",
+      "weightBlock": "Hustle",
+      "factoryFinish": "4000 Grit",
+      "durometer": {
+        "min": 73,
+        "max": 75
+      },
+      "symmetry": "Symmetrical",
+      "flarePotential": "Medium-Low",
+      "coverstock": "VTC Hybrid",
+      "coverstockBase": "VTC",
+      "coverstockType": "Hybrid",
+      "coverstockStrength": null,
+      "color": "Soot/Onyx/Sky",
+      "releaseDate": "06/26/26",
+      "fragrance": null,
+      "availableForSalesOrders": true,
+      "isAvailable": true,
+      "matchMaker": null,
+      "matchMakerApp": null,
+      "versionByWeight": [
+        {
+          "weight": 10,
+          "radiusOfGyration": 2.77,
+          "differential": 0.015,
+          "psa": null
+        },
+        {
+          "weight": 11,
+          "radiusOfGyration": 2.73,
+          "differential": 0.012,
+          "psa": null
+        },
+        {
+          "weight": 12,
+          "radiusOfGyration": 2.65,
+          "differential": 0.011,
+          "psa": null
+        },
+        {
+          "weight": 13,
+          "radiusOfGyration": 2.63,
+          "differential": 0.009,
+          "psa": null
+        },
+        {
+          "weight": 14,
+          "radiusOfGyration": 2.55,
+          "differential": 0.03,
+          "psa": null
+        },
+        {
+          "weight": 15,
+          "radiusOfGyration": 2.53,
+          "differential": 0.03,
+          "psa": null
+        },
+        {
+          "weight": 16,
+          "radiusOfGyration": 2.53,
+          "differential": 0.03,
+          "psa": null
+        }
+      ],
+      "stats": null,
+      "source": "scrape",
+      "updatedAt": "2026-09-11"
+    },
+    {
+      "id": 51,
+      "sku": "BBMRWQ",
+      "name": "HUSTLE GLOW",
+      "normalizedName": "Hustle Glow",
+      "url": "https://www.stormbowling.com/roto-grip-hustle-bowling-ball-glow",
+      "image": "https://assets.1.commercebuild.com/d186dcd2044cf54d8e48876defef4907/contents/BBMRWQ/Hustle_Glow.png",
+      "imageLocal": "balls/hustle-glow-bbmrwq.png",
+      "image360Local": "balls/hustle-glow-bbmrwq_360.png",
+      "thumbLocal": "balls/thumbs/hustle-glow-bbmrwq.webp",
+      "smallThumbLocal": "balls/thumbs/small/hustle-glow-bbmrwq.webp",
+      "brand": "Roto Grip",
+      "line": "HP1",
+      "core": "Light Weight",
+      "weightBlock": "Hustle",
+      "factoryFinish": "Power Edge",
+      "durometer": {
+        "min": 73,
+        "max": 75
+      },
+      "symmetry": "Symmetrical",
+      "flarePotential": "Medium-Low",
+      "coverstock": "VTC Pearl",
+      "coverstockBase": "VTC",
+      "coverstockType": "Pearl",
+      "coverstockStrength": null,
+      "color": "Mint/Fuchsia/Lemon",
+      "releaseDate": "05/23/25",
+      "fragrance": null,
+      "availableForSalesOrders": true,
+      "isAvailable": true,
+      "matchMaker": "18",
+      "matchMakerApp": true,
+      "versionByWeight": [
+        {
+          "weight": 10,
+          "radiusOfGyration": 2.77,
+          "differential": 0.015,
+          "psa": null
+        },
+        {
+          "weight": 11,
+          "radiusOfGyration": 2.73,
+          "differential": 0.012,
+          "psa": null
+        },
+        {
+          "weight": 12,
+          "radiusOfGyration": 2.65,
+          "differential": 0.011,
+          "psa": null
+        },
+        {
+          "weight": 13,
+          "radiusOfGyration": 2.63,
+          "differential": 0.009,
+          "psa": null
+        },
+        {
+          "weight": 14,
+          "radiusOfGyration": 2.55,
+          "differential": 0.03,
+          "psa": null
+        },
+        {
+          "weight": 15,
+          "radiusOfGyration": 2.53,
+          "differential": 0.03,
+          "psa": null
+        },
+        {
+          "weight": 16,
+          "radiusOfGyration": 2.53,
+          "differential": 0.03,
+          "psa": null
+        }
+      ],
+      "stats": null,
+      "source": "scrape",
+      "updatedAt": "2026-09-11"
+    },
+    {
+      "id": 52,
+      "sku": "BBMRQX",
+      "name": "HUSTLE X-RAY",
+      "normalizedName": "Hustle X-Ray",
+      "url": "https://www.stormbowling.com/roto-grip-hustle-bowling-ball-x-ray",
+      "image": "https://assets.1.commercebuild.com/d186dcd2044cf54d8e48876defef4907/contents/BBMRQX/BBMRQX.png",
+      "imageLocal": "balls/hustle-x-ray-bbmrqx.png",
+      "image360Local": null,
+      "thumbLocal": "balls/thumbs/hustle-x-ray-bbmrqx.webp",
+      "smallThumbLocal": "balls/thumbs/small/hustle-x-ray-bbmrqx.webp",
+      "brand": "Roto Grip",
+      "line": "HP1",
+      "core": "Light Weight",
+      "weightBlock": "Hustle",
+      "factoryFinish": "4000 Grit",
+      "durometer": {
+        "min": 73,
+        "max": 75
+      },
+      "symmetry": "Symmetrical",
+      "flarePotential": "Medium-Low",
+      "coverstock": "VTC Solid",
+      "coverstockBase": "VTC",
+      "coverstockType": "Solid",
+      "coverstockStrength": null,
+      "color": "Slate/Black",
+      "releaseDate": "04/19/24",
+      "fragrance": null,
+      "availableForSalesOrders": true,
+      "isAvailable": true,
+      "matchMaker": null,
+      "matchMakerApp": null,
+      "versionByWeight": [
+        {
+          "weight": 10,
+          "radiusOfGyration": 2.77,
+          "differential": 0.015,
+          "psa": null
+        },
+        {
+          "weight": 11,
+          "radiusOfGyration": 2.73,
+          "differential": 0.012,
+          "psa": null
+        },
+        {
+          "weight": 12,
+          "radiusOfGyration": 2.65,
+          "differential": 0.011,
+          "psa": null
+        },
+        {
+          "weight": 13,
+          "radiusOfGyration": 2.63,
+          "differential": 0.009,
+          "psa": null
+        },
+        {
+          "weight": 14,
+          "radiusOfGyration": 2.55,
+          "differential": 0.03,
+          "psa": null
+        },
+        {
+          "weight": 15,
+          "radiusOfGyration": 2.53,
+          "differential": 0.03,
+          "psa": null
+        },
+        {
+          "weight": 16,
+          "radiusOfGyration": 2.53,
+          "differential": 0.03,
+          "psa": null
+        }
+      ],
+      "stats": null,
+      "source": "scrape",
+      "updatedAt": "2026-09-11"
+    },
+    {
+      "id": 53,
+      "sku": "BBMRQJ",
+      "name": "HUSTLE EARTH",
+      "normalizedName": "Hustle Earth",
+      "url": "https://www.stormbowling.com/roto-grip-hustle-bowling-ball-earth",
+      "image": "https://assets.1.commercebuild.com/d186dcd2044cf54d8e48876defef4907/contents/BBMRQJ/Hustle_Earth.png",
+      "imageLocal": "balls/hustle-earth-bbmrqj.png",
+      "image360Local": "balls/hustle-earth-bbmrqj_360.png",
+      "thumbLocal": "balls/thumbs/hustle-earth-bbmrqj.webp",
+      "smallThumbLocal": "balls/thumbs/small/hustle-earth-bbmrqj.webp",
+      "brand": "Roto Grip",
+      "line": "HP1",
+      "core": "Light Weight",
+      "weightBlock": "Hustle",
+      "factoryFinish": "2000 Grit",
+      "durometer": {
+        "min": 73,
+        "max": 75
+      },
+      "symmetry": "Symmetrical",
+      "flarePotential": "Medium-Low",
+      "coverstock": "VTC Solid",
+      "coverstockBase": "VTC",
+      "coverstockType": "Solid",
+      "coverstockStrength": null,
+      "color": "Sea/Greenery/Dirt",
+      "releaseDate": "05/23/25",
+      "fragrance": null,
+      "availableForSalesOrders": true,
+      "isAvailable": true,
+      "matchMaker": null,
+      "matchMakerApp": null,
+      "versionByWeight": [
+        {
+          "weight": 10,
+          "radiusOfGyration": 2.77,
+          "differential": 0.015,
+          "psa": null
+        },
+        {
+          "weight": 11,
+          "radiusOfGyration": 2.73,
+          "differential": 0.012,
+          "psa": null
+        },
+        {
+          "weight": 12,
+          "radiusOfGyration": 2.65,
+          "differential": 0.011,
+          "psa": null
+        },
+        {
+          "weight": 13,
+          "radiusOfGyration": 2.63,
+          "differential": 0.009,
+          "psa": null
+        },
+        {
+          "weight": 14,
+          "radiusOfGyration": 2.55,
+          "differential": 0.03,
+          "psa": null
+        },
+        {
+          "weight": 15,
+          "radiusOfGyration": 2.53,
+          "differential": 0.03,
+          "psa": null
+        },
+        {
+          "weight": 16,
+          "radiusOfGyration": 2.53,
+          "differential": 0.03,
+          "psa": null
+        }
+      ],
+      "stats": null,
+      "source": "scrape",
+      "updatedAt": "2026-09-11"
+    },
+    {
+      "id": 54,
+      "sku": "BBMRQA",
+      "name": "HUSTLE M-M",
+      "normalizedName": "Hustle M-M",
+      "url": "https://www.stormbowling.com/roto-grip-hustle-bowling-ball-m-m",
+      "image": "https://assets.1.commercebuild.com/d186dcd2044cf54d8e48876defef4907/contents/BBMRQA/BBMRQA.png",
+      "imageLocal": "balls/hustle-m-m-bbmrqa.png",
+      "image360Local": null,
+      "thumbLocal": "balls/thumbs/hustle-m-m-bbmrqa.webp",
+      "smallThumbLocal": "balls/thumbs/small/hustle-m-m-bbmrqa.webp",
+      "brand": "Roto Grip",
+      "line": "HP1",
+      "core": "Light Weight",
+      "weightBlock": "Hustle",
+      "factoryFinish": "Reacta Gloss",
+      "durometer": {
+        "min": 73,
+        "max": 75
+      },
+      "symmetry": "Symmetrical",
+      "flarePotential": "Medium-Low",
+      "coverstock": "VTC Pearl",
+      "coverstockBase": "VTC",
+      "coverstockType": "Pearl",
+      "coverstockStrength": null,
+      "color": "Magenta/Midnight",
+      "releaseDate": "06/23/23",
+      "fragrance": "None",
+      "availableForSalesOrders": true,
+      "isAvailable": true,
+      "matchMaker": null,
+      "matchMakerApp": null,
+      "versionByWeight": [
+        {
+          "weight": 10,
+          "radiusOfGyration": 2.77,
+          "differential": 0.015,
+          "psa": null
+        },
+        {
+          "weight": 11,
+          "radiusOfGyration": 2.73,
+          "differential": 0.012,
+          "psa": null
+        },
+        {
+          "weight": 12,
+          "radiusOfGyration": 2.65,
+          "differential": 0.011,
+          "psa": null
+        },
+        {
+          "weight": 13,
+          "radiusOfGyration": 2.63,
+          "differential": 0.009,
+          "psa": null
+        },
+        {
+          "weight": 14,
+          "radiusOfGyration": 2.55,
+          "differential": 0.03,
+          "psa": null
+        },
+        {
+          "weight": 15,
+          "radiusOfGyration": 2.53,
+          "differential": 0.03,
+          "psa": null
+        },
+        {
+          "weight": 16,
+          "radiusOfGyration": 2.53,
+          "differential": 0.03,
+          "psa": null
+        }
+      ],
+      "stats": null,
+      "source": "scrape",
+      "updatedAt": "2026-09-11"
+    },
+    {
+      "id": 55,
+      "sku": "BBPRCY",
+      "name": "Cosmos",
+      "normalizedName": "Cosmos",
+      "url": "https://www.stormbowling.com/roto-grip-cosmos-bowling-ball",
+      "image": "https://assets.1.commercebuild.com/d186dcd2044cf54d8e48876defef4907/contents/BBPRCY/Cosmos.png?v=c062bb18",
+      "imageLocal": "balls/cosmos-bbprcy.png",
+      "image360Local": null,
+      "thumbLocal": "balls/thumbs/cosmos-bbprcy.webp",
+      "smallThumbLocal": "balls/thumbs/small/cosmos-bbprcy.webp",
+      "brand": "Roto Grip",
+      "line": "EP",
+      "core": "Light Weight",
+      "weightBlock": "3 Piece",
+      "factoryFinish": "3500 Grit Polished",
+      "durometer": {
+        "min": 82,
+        "max": 84
+      },
+      "symmetry": "Symmetrical",
+      "flarePotential": "Low",
+      "coverstock": "Clear Poly",
+      "coverstockBase": "Polyester",
+      "coverstockType": null,
+      "coverstockStrength": null,
+      "color": "Sky/Admiral/Teal",
+      "releaseDate": "07/17/26",
+      "fragrance": null,
+      "availableForSalesOrders": true,
+      "isAvailable": true,
+      "matchMaker": null,
+      "matchMakerApp": null,
+      "versionByWeight": [
+        {
+          "weight": 12,
+          "radiusOfGyration": 2.72,
+          "differential": 0.005,
+          "psa": null
+        },
+        {
+          "weight": 13,
+          "radiusOfGyration": 2.71,
+          "differential": 0.005,
+          "psa": null
+        },
+        {
+          "weight": 14,
+          "radiusOfGyration": 2.69,
+          "differential": 0.006,
+          "psa": null
+        },
+        {
+          "weight": 15,
+          "radiusOfGyration": 2.69,
+          "differential": 0.006,
+          "psa": null
+        },
+        {
+          "weight": 16,
+          "radiusOfGyration": 2.68,
+          "differential": 0.006,
+          "psa": null
+        }
+      ],
+      "stats": null,
+      "source": "scrape",
+      "updatedAt": "2026-09-11"
+    },
+    {
+      "id": 56,
+      "sku": "BBPRJC",
+      "name": "RG JESTER CLEAR POLYESTER",
+      "normalizedName": "RG Jester Clear Polyester",
+      "url": "https://www.stormbowling.com/roto-grip-jester-clear-polyester-bowling-ball",
+      "image": "https://assets.1.commercebuild.com/d186dcd2044cf54d8e48876defef4907/contents/BBPRJC/BBPRJC.png",
+      "imageLocal": "balls/rg-jester-clear-polyester-bbprjc.png",
+      "image360Local": null,
+      "thumbLocal": "balls/thumbs/rg-jester-clear-polyester-bbprjc.webp",
+      "smallThumbLocal": "balls/thumbs/small/rg-jester-clear-polyester-bbprjc.webp",
+      "brand": "Roto Grip",
+      "line": "EP",
+      "core": "Light Weight",
+      "weightBlock": "3 Piece",
+      "factoryFinish": "3500 Grit Polished",
+      "durometer": {
+        "min": 82,
+        "max": 84
+      },
+      "symmetry": "Symmetrical",
+      "flarePotential": "Low",
+      "coverstock": "Clear Poly",
+      "coverstockBase": "Polyester",
+      "coverstockType": null,
+      "coverstockStrength": null,
+      "color": "Bichrome-Black/Red",
+      "releaseDate": "10/18/24",
+      "fragrance": "None",
+      "availableForSalesOrders": true,
+      "isAvailable": true,
+      "matchMaker": null,
+      "matchMakerApp": null,
+      "versionByWeight": [
+        {
+          "weight": 14,
+          "radiusOfGyration": 2.69,
+          "differential": 0.006,
+          "psa": null
+        },
+        {
+          "weight": 15,
+          "radiusOfGyration": 2.69,
+          "differential": 0.006,
+          "psa": null
+        },
+        {
+          "weight": 16,
+          "radiusOfGyration": 2.69,
+          "differential": 0.006,
+          "psa": null
+        }
+      ],
+      "stats": null,
+      "source": "scrape",
+      "updatedAt": "2026-10-01"
+    },
+    {
+      "id": 57,
+      "sku": "BBMGKQ",
+      "name": "Viking Conquest",
+      "normalizedName": "Viking Conquest",
+      "url": "https://www.stormbowling.com/900-global-viking-conquest-bowling-ball",
+      "image": "https://assets.1.commercebuild.com/d186dcd2044cf54d8e48876defef4907/contents/BBMGKQ/BBMGKQ@1.png",
+      "imageLocal": "balls/viking-conquest-bbmgkq.png",
+      "image360Local": "balls/viking-conquest-bbmgkq_360.png",
+      "thumbLocal": "balls/thumbs/viking-conquest-bbmgkq.webp",
+      "smallThumbLocal": "balls/thumbs/small/viking-conquest-bbmgkq.webp",
+      "brand": "900 Global",
+      "line": "900",
+      "core": "AI",
+      "weightBlock": "Strobe AI",
+      "factoryFinish": "2000 Grit",
+      "durometer": {
+        "min": 74,
+        "max": 76
+      },
+      "symmetry": "Asymmetrical",
+      "flarePotential": "High",
+      "coverstock": "RB94 Solid",
+      "coverstockBase": "RB94",
+      "coverstockType": "Solid",
+      "coverstockStrength": 11.0,
+      "color": "Purple/White/Gray",
+      "releaseDate": "06/26/26",
+      "fragrance": null,
+      "availableForSalesOrders": true,
+      "isAvailable": true,
+      "matchMaker": null,
+      "matchMakerApp": null,
+      "versionByWeight": [
+        {
+          "weight": 12,
+          "radiusOfGyration": 2.58,
+          "differential": 0.031,
+          "psa": 0.009
+        },
+        {
+          "weight": 13,
+          "radiusOfGyration": 2.56,
+          "differential": 0.034,
+          "psa": 0.011
+        },
+        {
+          "weight": 14,
+          "radiusOfGyration": 2.52,
+          "differential": 0.051,
+          "psa": 0.014
+        },
+        {
+          "weight": 15,
+          "radiusOfGyration": 2.51,
+          "differential": 0.052,
+          "psa": 0.016
+        },
+        {
+          "weight": 16,
+          "radiusOfGyration": 2.5,
+          "differential": 0.05,
+          "psa": 0.014
+        }
+      ],
+      "stats": {
+        "flarePotential": {
+          "min": 10,
+          "max": 10,
+          "middle": 10.0
+        },
+        "ballShape": {
+          "min": 2,
+          "max": 3,
+          "middle": 2.5
+        },
+        "hookLength": {
+          "min": 3,
+          "max": 4,
+          "middle": 3.5
+        },
+        "oilVolume": {
+          "min": 9,
+          "max": 11,
+          "middle": 10.0
+        },
+        "patternLength": {
+          "min": 8,
+          "max": 10,
+          "middle": 9.0
+        },
+        "laneCondition": {
+          "min": 1,
+          "max": 3,
+          "middle": 2.0
+        }
+      },
+      "source": "scrape",
+      "updatedAt": "2026-09-18"
+    },
+    {
+      "id": 58,
+      "sku": "BBMGVK",
+      "name": "VIKING",
+      "normalizedName": "Viking",
+      "url": "https://www.stormbowling.com/900-global-viking-bowling-ball",
+      "image": "https://assets.1.commercebuild.com/d186dcd2044cf54d8e48876defef4907/contents/BBMGVK/BBMGVK.png",
+      "imageLocal": "balls/viking-bbmgvk.png",
+      "image360Local": "balls/viking-bbmgvk_360.png",
+      "thumbLocal": "balls/thumbs/viking-bbmgvk.webp",
+      "smallThumbLocal": "balls/thumbs/small/viking-bbmgvk.webp",
+      "brand": "900 Global",
+      "line": "900",
+      "core": "AI",
+      "weightBlock": "Strobe AI",
+      "factoryFinish": "Power Edge",
+      "durometer": {
+        "min": 74,
+        "max": 76
+      },
+      "symmetry": "Asymmetrical",
+      "flarePotential": "High",
+      "coverstock": "RB90 Hybrid",
+      "coverstockBase": "RB90",
+      "coverstockType": "Hybrid",
+      "coverstockStrength": 1.0,
+      "color": "Copper/Steel/Deep Purple",
+      "releaseDate": "11/21/25",
+      "fragrance": null,
+      "availableForSalesOrders": true,
+      "isAvailable": false,
+      "matchMaker": null,
+      "matchMakerApp": null,
+      "versionByWeight": [
+        {
+          "weight": 12,
+          "radiusOfGyration": 2.58,
+          "differential": 0.031,
+          "psa": 0.009
+        },
+        {
+          "weight": 13,
+          "radiusOfGyration": 2.64,
+          "differential": 0.034,
+          "psa": 0.011
+        },
+        {
+          "weight": 14,
+          "radiusOfGyration": 2.52,
+          "differential": 0.051,
+          "psa": 0.014
+        },
+        {
+          "weight": 15,
+          "radiusOfGyration": 2.51,
+          "differential": 0.052,
+          "psa": 0.016
+        },
+        {
+          "weight": 16,
+          "radiusOfGyration": 2.5,
+          "differential": 0.05,
+          "psa": 0.014
+        }
+      ],
+      "stats": {
+        "flarePotential": {
+          "min": 10,
+          "max": 10,
+          "middle": 10.0
+        },
+        "ballShape": {
+          "min": 8,
+          "max": 9,
+          "middle": 8.5
+        },
+        "hookLength": {
+          "min": 9,
+          "max": 10,
+          "middle": 9.5
+        },
+        "oilVolume": {
+          "min": 6,
+          "max": 7,
+          "middle": 6.5
+        },
+        "patternLength": {
+          "min": 6,
+          "max": 7,
+          "middle": 6.5
+        },
+        "laneCondition": {
+          "min": 6,
+          "max": 8,
+          "middle": 7.0
+        }
+      },
+      "source": "scrape",
+      "updatedAt": "2026-09-24"
+    },
+    {
+      "id": 59,
+      "sku": "BBMGRN",
+      "name": "Vengeance Returns",
+      "normalizedName": "Vengeance Returns",
+      "url": "https://www.stormbowling.com/900-global-vengeance-returns-bowling-ball",
+      "image": "https://assets.1.commercebuild.com/d186dcd2044cf54d8e48876defef4907/contents/BBMGRN/BBMGRN@1_(1).png",
+      "imageLocal": "balls/vengeance-returns-bbmgrn.png",
+      "image360Local": "balls/vengeance-returns-bbmgrn_360.png",
+      "thumbLocal": "balls/thumbs/vengeance-returns-bbmgrn.webp",
+      "smallThumbLocal": "balls/thumbs/small/vengeance-returns-bbmgrn.webp",
+      "brand": "900 Global",
+      "line": "800",
+      "core": "AI",
+      "weightBlock": "Blast AI",
+      "factoryFinish": "Power Edge",
+      "durometer": {
+        "min": 74,
+        "max": 76
+      },
+      "symmetry": "Symmetrical",
+      "flarePotential": "High",
+      "coverstock": "RB91 Hybrid",
+      "coverstockBase": "RB91",
+      "coverstockType": "Hybrid",
+      "coverstockStrength": 4.33,
+      "color": "Navy/Ash/Smoke",
+      "releaseDate": "06/26/26",
+      "fragrance": null,
+      "availableForSalesOrders": true,
+      "isAvailable": true,
+      "matchMaker": null,
+      "matchMakerApp": null,
+      "versionByWeight": [
+        {
+          "weight": 12,
+          "radiusOfGyration": 2.64,
+          "differential": 0.037,
+          "psa": null
+        },
+        {
+          "weight": 13,
+          "radiusOfGyration": 2.58,
+          "differential": 0.047,
+          "psa": null
+        },
+        {
+          "weight": 14,
+          "radiusOfGyration": 2.48,
+          "differential": 0.056,
+          "psa": null
+        },
+        {
+          "weight": 15,
+          "radiusOfGyration": 2.47,
+          "differential": 0.055,
+          "psa": null
+        },
+        {
+          "weight": 16,
+          "radiusOfGyration": 2.46,
+          "differential": 0.056,
+          "psa": null
+        }
+      ],
+      "stats": {
+        "flarePotential": {
+          "min": 9,
+          "max": 9,
+          "middle": 9.0
+        },
+        "ballShape": {
+          "min": 4,
+          "max": 6,
+          "middle": 5.0
+        },
+        "hookLength": {
+          "min": 5,
+          "max": 6,
+          "middle": 5.5
+        },
+        "oilVolume": {
+          "min": 6,
+          "max": 8,
+          "middle": 7.0
+        },
+        "patternLength": {
+          "min": 4,
+          "max": 6,
+          "middle": 5.0
+        },
+        "laneCondition": {
+          "min": 3,
+          "max": 5,
+          "middle": 4.0
+        }
+      },
+      "source": "scrape",
+      "updatedAt": "2026-09-18"
+    },
+    {
+      "id": 60,
+      "sku": "BBMGRR",
+      "name": "VENGEANCE",
+      "normalizedName": "Vengeance",
+      "url": "https://www.stormbowling.com/900-global-vengeance-bowling-ball",
+      "image": "https://assets.1.commercebuild.com/d186dcd2044cf54d8e48876defef4907/contents/BBMGRR/BBMGRR.png",
+      "imageLocal": "balls/vengeance-bbmgrr.png",
+      "image360Local": "balls/vengeance-bbmgrr_360.png",
+      "thumbLocal": "balls/thumbs/vengeance-bbmgrr.webp",
+      "smallThumbLocal": "balls/thumbs/small/vengeance-bbmgrr.webp",
+      "brand": "900 Global",
+      "line": "800",
+      "core": "AI",
+      "weightBlock": "Blast AI",
+      "factoryFinish": "2000 Grit",
+      "durometer": {
+        "min": 74,
+        "max": 76
+      },
+      "symmetry": "Symmetrical",
+      "flarePotential": "Medium-High",
+      "coverstock": "RB91 Solid",
+      "coverstockBase": "RB91",
+      "coverstockType": "Solid",
+      "coverstockStrength": 4.33,
+      "color": "Coal/Ash/Smoke",
+      "releaseDate": "01/30/26",
+      "fragrance": null,
+      "availableForSalesOrders": true,
+      "isAvailable": true,
+      "matchMaker": null,
+      "matchMakerApp": null,
+      "versionByWeight": [
+        {
+          "weight": 12,
+          "radiusOfGyration": 2.64,
+          "differential": 0.037,
+          "psa": null
+        },
+        {
+          "weight": 13,
+          "radiusOfGyration": 2.58,
+          "differential": 0.047,
+          "psa": null
+        },
+        {
+          "weight": 14,
+          "radiusOfGyration": 2.48,
+          "differential": 0.056,
+          "psa": null
+        },
+        {
+          "weight": 15,
+          "radiusOfGyration": 2.47,
+          "differential": 0.055,
+          "psa": null
+        },
+        {
+          "weight": 16,
+          "radiusOfGyration": 2.46,
+          "differential": 0.056,
+          "psa": null
+        }
+      ],
+      "stats": {
+        "flarePotential": {
+          "min": 9,
+          "max": 9,
+          "middle": 9.0
+        },
+        "ballShape": {
+          "min": 4,
+          "max": 5,
+          "middle": 4.5
+        },
+        "hookLength": {
+          "min": 3,
+          "max": 5,
+          "middle": 4.0
+        },
+        "oilVolume": {
+          "min": 8,
+          "max": 10,
+          "middle": 9.0
+        },
+        "patternLength": {
+          "min": 7,
+          "max": 10,
+          "middle": 8.5
+        },
+        "laneCondition": {
+          "min": 1,
+          "max": 3,
+          "middle": 2.0
+        }
+      },
+      "source": "scrape",
+      "updatedAt": "2026-09-18"
+    },
+    {
+      "id": 61,
+      "sku": "BBPGOX",
+      "name": "ONYX POLYESTER",
+      "normalizedName": "Onyx Polyester",
+      "url": "https://www.stormbowling.com/900-global-onyx-polyester-bowling-ball",
+      "image": "https://assets.1.commercebuild.com/d186dcd2044cf54d8e48876defef4907/contents/BBPGOX/Global_Poly_Global_still.png",
+      "imageLocal": "balls/onyx-polyester-bbpgox.png",
+      "image360Local": null,
+      "thumbLocal": "balls/thumbs/onyx-polyester-bbpgox.webp",
+      "smallThumbLocal": "balls/thumbs/small/onyx-polyester-bbpgox.webp",
+      "brand": "900 Global",
+      "line": "600",
+      "core": "Light Weight",
+      "weightBlock": "3 Piece",
+      "factoryFinish": "3500 Grit Polished",
+      "durometer": {
+        "min": 82,
+        "max": 84
+      },
+      "symmetry": "Symmetrical",
+      "flarePotential": "Low",
+      "coverstock": "Clear Poly",
+      "coverstockBase": "Polyester",
+      "coverstockType": null,
+      "coverstockStrength": null,
+      "color": "Onyx Clear",
+      "releaseDate": "10/18/24",
+      "fragrance": "None",
+      "availableForSalesOrders": true,
+      "isAvailable": true,
+      "matchMaker": null,
+      "matchMakerApp": null,
+      "versionByWeight": [
+        {
+          "weight": 14,
+          "radiusOfGyration": 2.69,
+          "differential": 0.006,
+          "psa": null
+        },
+        {
+          "weight": 15,
+          "radiusOfGyration": 2.69,
+          "differential": 0.006,
+          "psa": null
+        },
+        {
+          "weight": 16,
+          "radiusOfGyration": 2.68,
+          "differential": 0.006,
+          "psa": null
+        }
+      ],
+      "stats": null,
+      "source": "scrape",
+      "updatedAt": "2026-09-11"
+    },
+    {
+      "id": 62,
+      "sku": "BBMVXY",
+      "name": "Equinox Hybrid",
+      "normalizedName": "Equinox Hybrid",
+      "url": "https://www.stormbowling.com/storm-equinox-hybrid-bowling-ball",
+      "image": "https://assets.1.commercebuild.com/d186dcd2044cf54d8e48876defef4907/contents/BBMVXY/BBMVXY@1.png?v=9705ff08",
+      "imageLocal": "balls/equinox-hybrid-bbmvxy.png",
+      "image360Local": "balls/equinox-hybrid-bbmvxy_360.png",
+      "thumbLocal": "balls/thumbs/equinox-hybrid-bbmvxy.webp",
+      "smallThumbLocal": "balls/thumbs/small/equinox-hybrid-bbmvxy.webp",
+      "brand": "Storm",
+      "line": "Premier",
+      "core": "AI",
+      "weightBlock": "Solarion AI",
+      "factoryFinish": "Power Edge",
+      "durometer": {
+        "min": 73,
+        "max": 75
+      },
+      "symmetry": "Asymmetrical",
+      "flarePotential": "High",
+      "coverstock": "A2S Hybrid",
+      "coverstockBase": "A2S",
+      "coverstockType": "Hybrid",
+      "coverstockStrength": 6.71,
+      "color": "Nebula/Flare/Void",
+      "releaseDate": "09/04/26",
+      "fragrance": "Orange Creamsicle",
+      "availableForSalesOrders": true,
+      "isAvailable": true,
+      "matchMaker": null,
+      "matchMakerApp": null,
+      "versionByWeight": [
+        {
+          "weight": 12,
+          "radiusOfGyration": 2.58,
+          "differential": 0.031,
+          "psa": 0.009
+        },
+        {
+          "weight": 13,
+          "radiusOfGyration": 2.56,
+          "differential": 0.034,
+          "psa": 0.011
+        },
+        {
+          "weight": 14,
+          "radiusOfGyration": 2.49,
+          "differential": 0.053,
+          "psa": 0.017
+        },
+        {
+          "weight": 15,
+          "radiusOfGyration": 2.48,
+          "differential": 0.054,
+          "psa": 0.018
+        },
+        {
+          "weight": 16,
+          "radiusOfGyration": 2.47,
+          "differential": 0.054,
+          "psa": 0.016
+        }
+      ],
+      "stats": {
+        "flarePotential": {
+          "min": 10,
+          "max": 10,
+          "middle": 10.0
+        },
+        "ballShape": {
+          "min": 7,
+          "max": 9,
+          "middle": 8.0
+        },
+        "hookLength": {
+          "min": 5,
+          "max": 8,
+          "middle": 6.5
+        },
+        "oilVolume": {
+          "min": 4,
+          "max": 9,
+          "middle": 6.5
+        },
+        "patternLength": {
+          "min": 4,
+          "max": 9,
+          "middle": 6.5
+        },
+        "laneCondition": {
+          "min": 4,
+          "max": 8,
+          "middle": 6.0
+        }
+      },
+      "source": "scrape",
+      "updatedAt": "2026-09-11"
+    },
+    {
+      "id": 63,
+      "sku": "BBMRGW",
+      "name": "Perfect Gem",
+      "normalizedName": "Perfect Gem",
+      "url": "https://www.stormbowling.com/roto-grip-perfect-gem-bowling-ball",
+      "image": "https://assets.1.commercebuild.com/d186dcd2044cf54d8e48876defef4907/contents/BBMRGW/BBMRGW@1.png?v=f0c77446",
+      "imageLocal": "balls/perfect-gem-bbmrgw.png",
+      "image360Local": "balls/perfect-gem-bbmrgw_360.png",
+      "thumbLocal": "balls/thumbs/perfect-gem-bbmrgw.webp",
+      "smallThumbLocal": "balls/thumbs/small/perfect-gem-bbmrgw.webp",
+      "brand": "Roto Grip",
+      "line": "HP4",
+      "core": "AI",
+      "weightBlock": "Gem AI",
+      "factoryFinish": "2000 Grit",
+      "durometer": {
+        "min": 73,
+        "max": 75
+      },
+      "symmetry": "Asymmetrical",
+      "flarePotential": "High",
+      "coverstock": "ER1 Solid",
+      "coverstockBase": "ER1",
+      "coverstockType": "Solid",
+      "coverstockStrength": null,
+      "color": "Pink/Rose/Onyx",
+      "releaseDate": "10/02/26",
+      "fragrance": null,
+      "availableForSalesOrders": true,
+      "isAvailable": true,
+      "matchMaker": null,
+      "matchMakerApp": null,
+      "versionByWeight": [
+        {
+          "weight": 12,
+          "radiusOfGyration": 2.59,
+          "differential": 0.029,
+          "psa": 0.008
+        },
+        {
+          "weight": 13,
+          "radiusOfGyration": 2.57,
+          "differential": 0.032,
+          "psa": 0.01
+        },
+        {
+          "weight": 14,
+          "radiusOfGyration": 2.52,
+          "differential": 0.056,
+          "psa": 0.016
+        },
+        {
+          "weight": 15,
+          "radiusOfGyration": 2.49,
+          "differential": 0.057,
+          "psa": 0.017
+        },
+        {
+          "weight": 16,
+          "radiusOfGyration": 2.49,
+          "differential": 0.055,
+          "psa": 0.017
+        }
+      ],
+      "stats": {
+        "flarePotential": {
+          "min": 11,
+          "max": 11,
+          "middle": 11.0
+        },
+        "ballShape": {
+          "min": 1,
+          "max": 4,
+          "middle": 2.5
+        },
+        "hookLength": {
+          "min": 1,
+          "max": 3,
+          "middle": 2.0
+        },
+        "oilVolume": {
+          "min": 8,
+          "max": 11,
+          "middle": 9.5
+        },
+        "patternLength": {
+          "min": 7,
+          "max": 11,
+          "middle": 9.0
+        },
+        "laneCondition": {
+          "min": 1,
+          "max": 4,
+          "middle": 2.5
+        }
+      },
+      "source": "scrape",
+      "updatedAt": "2026-09-11"
+    },
+    {
+      "id": 64,
+      "sku": "BBMGPL",
+      "name": "Portal",
+      "normalizedName": "Portal",
+      "url": "https://www.stormbowling.com/900-global-portal-bowling-ball",
+      "image": "https://assets.1.commercebuild.com/d186dcd2044cf54d8e48876defef4907/contents/BBMGPL/BBMGPL@1.png?v=8e7631c8",
+      "imageLocal": "balls/portal-bbmgpl.png",
+      "image360Local": "balls/portal-bbmgpl_360.png",
+      "thumbLocal": "balls/thumbs/portal-bbmgpl.webp",
+      "smallThumbLocal": "balls/thumbs/small/portal-bbmgpl.webp",
+      "brand": "900 Global",
+      "line": "900",
+      "core": "AI",
+      "weightBlock": "Conduit AI",
+      "factoryFinish": "Power Edge",
+      "durometer": {
+        "min": 74,
+        "max": 76
+      },
+      "symmetry": "Asymmetrical",
+      "flarePotential": "High",
+      "coverstock": "RB92 Solid",
+      "coverstockBase": "RB92",
+      "coverstockType": "Solid",
+      "coverstockStrength": 7.67,
+      "color": "Red",
+      "releaseDate": "10/02/26",
+      "fragrance": null,
+      "availableForSalesOrders": true,
+      "isAvailable": true,
+      "matchMaker": null,
+      "matchMakerApp": null,
+      "versionByWeight": [
+        {
+          "weight": 12,
+          "radiusOfGyration": 2.58,
+          "differential": 0.031,
+          "psa": 0.009
+        },
+        {
+          "weight": 13,
+          "radiusOfGyration": 2.56,
+          "differential": 0.034,
+          "psa": 0.011
+        },
+        {
+          "weight": 14,
+          "radiusOfGyration": 2.61,
+          "differential": 0.049,
+          "psa": 0.018
+        },
+        {
+          "weight": 15,
+          "radiusOfGyration": 2.59,
+          "differential": 0.05,
+          "psa": 0.019
+        },
+        {
+          "weight": 16,
+          "radiusOfGyration": 2.58,
+          "differential": 0.053,
+          "psa": 0.021
+        }
+      ],
+      "stats": {
+        "flarePotential": {
+          "min": 10,
+          "max": 10,
+          "middle": 10.0
+        },
+        "ballShape": {
+          "min": 8,
+          "max": 10,
+          "middle": 9.0
+        },
+        "hookLength": {
+          "min": 8,
+          "max": 11,
+          "middle": 9.5
+        },
+        "oilVolume": {
+          "min": 2,
+          "max": 6,
+          "middle": 4.0
+        },
+        "patternLength": {
+          "min": 4,
+          "max": 9,
+          "middle": 6.5
+        },
+        "laneCondition": {
+          "min": 7,
+          "max": 10,
+          "middle": 8.5
+        }
+      },
+      "source": "scrape",
+      "updatedAt": "2026-09-11"
+    },
+    {
+      "id": 65,
+      "sku": "PTLP-ION-PRO-PEARL",
+      "name": "ION Pro Pearl",
+      "normalizedName": "Ion Pro Pearl",
+      "url": "https://www.stormbowling.com/paint-the-lanes-pink",
+      "image": "https://stormproducts.nyc3.cdn.digitaloceanspaces.com/web_page_content/PTLP/2026/ion-pro-pearl-ptlp.webp",
+      "imageLocal": "balls/ion-pro-pearl-ptlp-ion-pro-pearl.webp",
+      "image360Local": null,
+      "thumbLocal": "balls/thumbs/ion-pro-pearl-ptlp-ion-pro-pearl.webp",
+      "smallThumbLocal": "balls/thumbs/small/ion-pro-pearl-ptlp-ion-pro-pearl.webp",
+      "brand": "Storm",
+      "line": null,
+      "core": "AI",
+      "weightBlock": "Element Tour AI",
+      "factoryFinish": "Power Edge",
+      "durometer": null,
+      "symmetry": "Asymmetrical",
+      "flarePotential": "Medium",
+      "coverstock": "NRG Pearl",
+      "coverstockBase": "NRG",
+      "coverstockType": "Pearl",
+      "coverstockStrength": 8.86,
+      "color": "Pink",
+      "releaseDate": "10/01/26",
+      "fragrance": "Watermelon",
+      "availableForSalesOrders": null,
+      "isAvailable": true,
+      "matchMaker": null,
+      "matchMakerApp": null,
+      "versionByWeight": [
+        {
+          "weight": 12,
+          "radiusOfGyration": 2.58,
+          "differential": 0.031,
+          "psa": 0.009
+        },
+        {
+          "weight": 13,
+          "radiusOfGyration": 2.56,
+          "differential": 0.034,
+          "psa": 0.011
+        },
+        {
+          "weight": 14,
+          "radiusOfGyration": 2.51,
+          "differential": 0.036,
+          "psa": 0.01
+        },
+        {
+          "weight": 15,
+          "radiusOfGyration": 2.47,
+          "differential": 0.035,
+          "psa": 0.014
+        },
+        {
+          "weight": 16,
+          "radiusOfGyration": 2.47,
+          "differential": 0.035,
+          "psa": 0.013
+        }
+      ],
+      "stats": {
+        "flarePotential": {
+          "min": 7,
+          "max": 7,
+          "middle": 7.0
+        },
+        "ballShape": {
+          "min": 7,
+          "max": 10,
+          "middle": 8.5
+        },
+        "hookLength": {
+          "min": 7,
+          "max": 10,
+          "middle": 8.5
+        },
+        "oilVolume": {
+          "min": 2,
+          "max": 7,
+          "middle": 4.5
+        },
+        "patternLength": {
+          "min": 4,
+          "max": 9,
+          "middle": 6.5
+        },
+        "laneCondition": {
+          "min": 5,
+          "max": 11,
+          "middle": 8.0
+        }
+      },
+      "source": "manual",
+      "updatedAt": "2026-09-23"
+    },
+    {
+      "id": 66,
+      "sku": "BBMRKS",
+      "name": "Rockstar",
+      "normalizedName": "Rockstar",
+      "url": "https://www.bowwwl.com/bowling-ball-database/roto-grip/rockstar",
+      "image": "https://stormproducts.nyc3.cdn.digitaloceanspaces.com/product_pages/Balls/Sequencing/BBMRKS/BBMRKS_00000.png",
+      "imageLocal": "balls/rockstar-bbmrks.png",
+      "image360Local": null,
+      "thumbLocal": "balls/thumbs/rockstar-bbmrks.webp",
+      "smallThumbLocal": "balls/thumbs/small/rockstar-bbmrks.webp",
+      "brand": "Roto Grip",
+      "line": "HP3",
+      "core": "AI",
+      "weightBlock": "Rocker AI",
+      "factoryFinish": "2000 Grit",
+      "durometer": {
+        "min": 73,
+        "max": 75
+      },
+      "symmetry": "Symmetrical",
+      "flarePotential": "Medium-High",
+      "coverstock": "NanoStar Solid",
+      "coverstockBase": "NanoStar",
+      "coverstockType": "Solid",
+      "coverstockStrength": null,
+      "color": "Crimson/Jet/Maroon",
+      "releaseDate": "02/01/25",
+      "fragrance": null,
+      "availableForSalesOrders": false,
+      "isAvailable": false,
+      "matchMaker": null,
+      "matchMakerApp": null,
+      "versionByWeight": [
+        {
+          "weight": 12,
+          "radiusOfGyration": 2.64,
+          "differential": 0.037,
+          "psa": null
+        },
+        {
+          "weight": 13,
+          "radiusOfGyration": 2.58,
+          "differential": 0.047,
+          "psa": null
+        },
+        {
+          "weight": 14,
+          "radiusOfGyration": 2.5,
+          "differential": 0.046,
+          "psa": null
+        },
+        {
+          "weight": 15,
+          "radiusOfGyration": 2.48,
+          "differential": 0.05,
+          "psa": null
+        },
+        {
+          "weight": 16,
+          "radiusOfGyration": 2.48,
+          "differential": 0.054,
+          "psa": null
+        }
+      ],
+      "stats": {
+        "flarePotential": {
+          "min": 8,
+          "max": 8,
+          "middle": 8.0
+        },
+        "ballShape": {
+          "min": 3,
+          "max": 4,
+          "middle": 3.5
+        },
+        "hookLength": {
+          "min": 6,
+          "max": 8,
+          "middle": 7.0
+        },
+        "oilVolume": {
+          "min": 6,
+          "max": 9,
+          "middle": 7.5
+        },
+        "patternLength": {
+          "min": 4,
+          "max": 8,
+          "middle": 6.0
+        },
+        "laneCondition": {
+          "min": 2,
+          "max": 5,
+          "middle": 3.5
+        }
+      },
+      "source": "manual",
+      "updatedAt": "2026-09-24"
+    },
+    {
+      "id": 67,
+      "sku": "BBMRRM",
+      "name": "Rockstar Amped",
+      "normalizedName": "Rockstar Amped",
+      "url": "https://www.bowwwl.com/bowling-ball-database/roto-grip/rockstar-amped",
+      "image": "https://stormproducts.nyc3.cdn.digitaloceanspaces.com/product_pages/Balls/Sequencing/BBMRRM/BBMRRM_00000.png",
+      "imageLocal": "balls/rockstar-amped-bbmrrm.png",
+      "image360Local": null,
+      "thumbLocal": "balls/thumbs/rockstar-amped-bbmrrm.webp",
+      "smallThumbLocal": "balls/thumbs/small/rockstar-amped-bbmrrm.webp",
+      "brand": "Roto Grip",
+      "line": "HP3",
+      "core": "AI",
+      "weightBlock": "Rocker AI",
+      "factoryFinish": "Power Edge",
+      "durometer": {
+        "min": 73,
+        "max": 75
+      },
+      "symmetry": "Symmetrical",
+      "flarePotential": "Medium-Low",
+      "coverstock": "NanoStar Pearl",
+      "coverstockBase": "NanoStar",
+      "coverstockType": "Pearl",
+      "coverstockStrength": null,
+      "color": "Chili/Maroon/Raspberry",
+      "releaseDate": "10/01/25",
+      "fragrance": null,
+      "availableForSalesOrders": false,
+      "isAvailable": false,
+      "matchMaker": null,
+      "matchMakerApp": null,
+      "versionByWeight": [
+        {
+          "weight": 12,
+          "radiusOfGyration": 2.64,
+          "differential": 0.037,
+          "psa": null
+        },
+        {
+          "weight": 13,
+          "radiusOfGyration": 2.58,
+          "differential": 0.047,
+          "psa": null
+        },
+        {
+          "weight": 14,
+          "radiusOfGyration": 2.5,
+          "differential": 0.046,
+          "psa": null
+        },
+        {
+          "weight": 15,
+          "radiusOfGyration": 2.48,
+          "differential": 0.05,
+          "psa": null
+        },
+        {
+          "weight": 16,
+          "radiusOfGyration": 2.48,
+          "differential": 0.054,
+          "psa": null
+        }
+      ],
+      "stats": {
+        "flarePotential": {
+          "min": 5,
+          "max": 5,
+          "middle": 5.0
+        },
+        "ballShape": {
+          "min": 9,
+          "max": 9,
+          "middle": 9.0
+        },
+        "hookLength": {
+          "min": 8,
+          "max": 9,
+          "middle": 8.5
+        },
+        "oilVolume": {
+          "min": 2,
+          "max": 5,
+          "middle": 3.5
+        },
+        "patternLength": {
+          "min": 4,
+          "max": 8,
+          "middle": 6.0
+        },
+        "laneCondition": {
+          "min": 8,
+          "max": 11,
+          "middle": 9.5
+        }
+      },
+      "source": "manual",
+      "updatedAt": "2026-09-24"
+    }
+  ],
+  "lookups": {
+    "brand": [
+      {
+        "key": "900 Global",
+        "value": "900 Global"
+      },
+      {
+        "key": "Roto Grip",
+        "value": "Roto Grip"
+      },
+      {
+        "key": "Storm",
+        "value": "Storm"
+      }
+    ],
+    "weightBlock": [
+      {
+        "key": "3 Piece",
+        "value": "3 Piece"
+      },
+      {
+        "key": "Atmos AI",
+        "value": "Atmos AI"
+      },
+      {
+        "key": "Blast AI",
+        "value": "Blast AI"
+      },
+      {
+        "key": "Booster AI",
+        "value": "Booster AI"
+      },
+      {
+        "key": "C3C",
+        "value": "C3C"
+      },
+      {
+        "key": "Capacitor",
+        "value": "Capacitor"
+      },
+      {
+        "key": "Catalyst AI",
+        "value": "Catalyst AI"
+      },
+      {
+        "key": "Conduit AI",
+        "value": "Conduit AI"
+      },
+      {
+        "key": "Cube",
+        "value": "Cube"
+      },
+      {
+        "key": "Element Max AI",
+        "value": "Element Max AI"
+      },
+      {
+        "key": "Element Tour AI",
+        "value": "Element Tour AI"
+      },
+      {
+        "key": "Gem AI",
+        "value": "Gem AI"
+      },
+      {
+        "key": "Hustle",
+        "value": "Hustle"
+      },
+      {
+        "key": "Hyped Up",
+        "value": "Hyped Up"
+      },
+      {
+        "key": "ID AI",
+        "value": "ID AI"
+      },
+      {
+        "key": "Inverted Fe2",
+        "value": "Inverted Fe2"
+      },
+      {
+        "key": "Morph Wing",
+        "value": "Morph Wing"
+      },
+      {
+        "key": "RAD-TQ",
+        "value": "RAD-TQ"
+      },
+      {
+        "key": "Radius",
+        "value": "Radius"
+      },
+      {
+        "key": "Rocker AI",
+        "value": "Rocker AI"
+      },
+      {
+        "key": "Rondure MaxD",
+        "value": "Rondure MaxD"
+      },
+      {
+        "key": "Rondure TourX",
+        "value": "Rondure TourX"
+      },
+      {
+        "key": "RST AI",
+        "value": "RST AI"
+      },
+      {
+        "key": "Solarion AI",
+        "value": "Solarion AI"
+      },
+      {
+        "key": "Strobe AI",
+        "value": "Strobe AI"
+      },
+      {
+        "key": "Surge Core",
+        "value": "Surge Core"
+      },
+      {
+        "key": "Torsion AI",
+        "value": "Torsion AI"
+      },
+      {
+        "key": "Velocity",
+        "value": "Velocity"
+      }
+    ],
+    "factoryFinish": [
+      {
+        "key": "1000 Grit",
+        "value": "1000 Grit"
+      },
+      {
+        "key": "1500 Grit Polished",
+        "value": "1500 Grit Polished"
+      },
+      {
+        "key": "2000 Grit",
+        "value": "2000 Grit"
+      },
+      {
+        "key": "3000 Grit",
+        "value": "3000 Grit"
+      },
+      {
+        "key": "3500 Grit Polished",
+        "value": "3500 Grit Polished"
+      },
+      {
+        "key": "4000 Grit",
+        "value": "4000 Grit"
+      },
+      {
+        "key": "500 Grit",
+        "value": "500 Grit"
+      },
+      {
+        "key": "Power Edge",
+        "value": "Power Edge"
+      },
+      {
+        "key": "Reacta Gloss",
+        "value": "Reacta Gloss"
+      }
+    ],
+    "symmetry": [
+      {
+        "key": "Asymmetrical",
+        "value": "Asymmetrical"
+      },
+      {
+        "key": "Symmetrical",
+        "value": "Symmetrical"
+      }
+    ],
+    "coverstock": [
+      {
+        "key": "A1S",
+        "value": "A1S"
+      },
+      {
+        "key": "A2S",
+        "value": "A2S"
+      },
+      {
+        "key": "ARC",
+        "value": "ARC"
+      },
+      {
+        "key": "Controll 78 Urethane",
+        "value": "Controll 78 Urethane"
+      },
+      {
+        "key": "Controll Urethane",
+        "value": "Controll Urethane"
+      },
+      {
+        "key": "ER1",
+        "value": "ER1"
+      },
+      {
+        "key": "GI26",
+        "value": "GI26"
+      },
+      {
+        "key": "GR1",
+        "value": "GR1"
+      },
+      {
+        "key": "Microtrax",
+        "value": "Microtrax"
+      },
+      {
+        "key": "NanoStar",
+        "value": "NanoStar"
+      },
+      {
+        "key": "NRG",
+        "value": "NRG"
+      },
+      {
+        "key": "Polyester",
+        "value": "Polyester"
+      },
+      {
+        "key": "R2S",
+        "value": "R2S"
+      },
+      {
+        "key": "R3S",
+        "value": "R3S"
+      },
+      {
+        "key": "RB90",
+        "value": "RB90"
+      },
+      {
+        "key": "RB91",
+        "value": "RB91"
+      },
+      {
+        "key": "RB92",
+        "value": "RB92"
+      },
+      {
+        "key": "RB94",
+        "value": "RB94"
+      },
+      {
+        "key": "Reactor",
+        "value": "Reactor"
+      },
+      {
+        "key": "REX",
+        "value": "REX"
+      },
+      {
+        "key": "TX-16",
+        "value": "TX-16"
+      },
+      {
+        "key": "TX-25",
+        "value": "TX-25"
+      },
+      {
+        "key": "U-R1",
+        "value": "U-R1"
+      },
+      {
+        "key": "U1S Urethane",
+        "value": "U1S Urethane"
+      },
+      {
+        "key": "V-R1",
+        "value": "V-R1"
+      },
+      {
+        "key": "VR1",
+        "value": "VR1"
+      },
+      {
+        "key": "VTC",
+        "value": "VTC"
+      }
+    ],
+    "coverstockType": [
+      {
+        "key": "Hybrid",
+        "value": "Hybrid"
+      },
+      {
+        "key": "Pearl",
+        "value": "Pearl"
+      },
+      {
+        "key": "Solid",
+        "value": "Solid"
+      }
+    ]
+  },
+  "coverstockStrength": {
+    "900 Global": {
+      "RB90": 1.0,
+      "RB91": 4.33,
+      "RB92": 7.67,
+      "RB94": 11.0
+    },
+    "Storm": {
+      "Polyester": 1.0,
+      "U1S Urethane": 1.71,
+      "Controll 78 Urethane": 2.43,
+      "Controll Urethane": 3.14,
+      "Reactor": 3.86,
+      "R2S": 4.57,
+      "R3S": 5.29,
+      "A1S": 6.0,
+      "A2S": 6.71,
+      "TX-16": 7.43,
+      "REX": 8.14,
+      "NRG": 8.86,
+      "TX-25": 9.57,
+      "GI26": 10.29,
+      "ARC": 11.0
+    }
+  }
+}
