@@ -1,0 +1,5 @@
+# Every page is open to search. The sitemap is written at build time (scripts/pages.mjs).
+User-agent: *
+Allow: /
+
+Sitemap: https://downlanemotion.com/sitemap.xml
