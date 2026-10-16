@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 120 120">
+  <!-- Down Lane Motion mark, small-size version: only the skid / hook / roll path, which is
+       all that reads at favicon sizes. Lilac in a dark browser UI so it stays visible. -->
+  <style>
+    circle { fill: #5b57d9; }
+    @media (prefers-color-scheme: dark) { circle { fill: #a3a1fb; } }
+  </style>
+  <circle cx="96" cy="96" r="15"/>
+  <circle cx="96" cy="60" r="15"/>
+  <circle cx="60" cy="24" r="15"/>
+</svg>

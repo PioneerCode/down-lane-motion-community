@@ -1,0 +1,15 @@
+{
+  "name": "Down Lane Motion",
+  "short_name": "Down Lane",
+  "description": "Charts of Storm, Roto Grip and 900 Global bowling balls: reaction, RG and differential, look-alikes and side-by-side comparisons.",
+  "start_url": "/",
+  "scope": "/",
+  "display": "standalone",
+  "background_color": "#24282e",
+  "theme_color": "#24282e",
+  "icons": [
+    { "src": "icon-192.png", "sizes": "192x192", "type": "image/png", "purpose": "any" },
+    { "src": "icon-512.png", "sizes": "512x512", "type": "image/png", "purpose": "any" },
+    { "src": "icon-maskable-512.png", "sizes": "512x512", "type": "image/png", "purpose": "maskable" }
+  ]
+}
